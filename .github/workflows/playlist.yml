@@ -1,0 +1,44 @@
+name: playlist (M3U estatico)
+
+on:
+  schedule:
+    # Todo dia as 04:00 UTC (01:00 no horario de Brasilia) — renova os links dns
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (inclui a pasta out/ commitada)
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      # O gate usa out/ (hosts HEADER_WORKING). A lista de canais/links e
+      # buscada da API ao vivo a cada execucao. Para atualizar o gate, rode
+      # localmente `npm run analyze-streams` e faça commit da pasta out/.
+      - name: Gerar M3U com links crus (sem servidor)
+        run: node scripts/export-m3u.js --raw --out out/playlist-raw.m3u
+
+      - name: Publicar em gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: out
+          force_orphan: true
+          enable_jekyll: false
+
+      - name: URL final
+        run: echo "URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/playlist-raw.m3u"

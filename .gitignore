@@ -1,0 +1,7 @@
+node_modules/
+out/
+*.log
+server.pid
+.env
+test-artifacts*.ts
+test_*.json
