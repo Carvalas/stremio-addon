@@ -1,7 +1,9 @@
 node_modules/
-out/
 *.log
 server.pid
 .env
 test-artifacts*.ts
 test_*.json
+out/*
+!out/header-working-sources.json
+!out/compatible-channels.json
