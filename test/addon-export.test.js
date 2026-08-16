@@ -2,7 +2,11 @@ const test = require('node:test');
 const assert = require('node:assert');
 const manifest = require('../src/manifest');
 const { resolveRawUrl } = require('../src/services/m3uService');
-const { buildAddonPayloads, catalogMetas } = require('../src/services/addonExportService');
+const {
+  buildAddonPayloads,
+  catalogMetas,
+  resolveSourceRawUrl,
+} = require('../src/services/addonExportService');
 
 const HOST = 'dns.explouddev.com';
 const hwHosts = new Set([HOST]);
@@ -37,10 +41,107 @@ test('addon: fonte em host HEADER_WORKING vira link cru no stream', () => {
   const link = `http://${HOST}:80/live/1/2/749.m3u8`;
   const channels = [channel('maxnet:sports:10', 'SporTV', [{ name: 'Fonte', link }], { category: 'sports' })];
   const { streams } = buildAddonPayloads(channels, { hwHosts, compatIds: new Set() });
-  assert.strictEqual(streams.length, 1);
-  assert.strictEqual(streams[0].id, 'maxnet:sports:10');
+  assert.ok(streams.length >= 1);
+  const chan = streams.find((s) => s.id === 'maxnet:sports:10');
+  assert.ok(chan);
+  assert.strictEqual(chan.url, link);
+  assert.ok(!chan.url.includes('/proxy'));
+});
+
+test('addon: stream gerado para o id do canal E para cada fonte (:src-N)', () => {
+  const link = `http://${HOST}:80/live/1/2/749.m3u8`;
+  const channels = [
+    channel('maxnet:sports:10', 'SporTV', [
+      { name: 'Fonte 1', link },
+      { name: 'Fonte 2', link },
+    ], { category: 'sports' }),
+  ];
+  const { streams } = buildAddonPayloads(channels, { hwHosts, compatIds: new Set() });
+  const ids = streams.map((s) => s.id);
+  assert.ok(ids.includes('maxnet:sports:10'));
+  assert.ok(ids.includes('maxnet:sports:10:src-0'));
+  assert.ok(ids.includes('maxnet:sports:10:src-1'));
+  const chan = streams.find((s) => s.id === 'maxnet:sports:10');
+  const src0 = streams.find((s) => s.id === 'maxnet:sports:10:src-0');
+  assert.strictEqual(src0.url, chan.url);
+});
+
+test('addon: meta expoe videos por padrao, so com fontes reproduziveis', () => {
+  const link = `http://${HOST}:80/live/1/2/749.m3u8`;
+  const channels = [channel('maxnet:sports:10', 'SporTV', [{ name: 'Fonte', link }], { category: 'sports' })];
+  const { metas } = buildAddonPayloads(channels, { hwHosts, compatIds: new Set() });
+  assert.strictEqual(metas.length, 1);
+  assert.ok(Array.isArray(metas[0].meta.videos));
+  assert.strictEqual(metas[0].meta.videos.length, 1);
+  assert.strictEqual(metas[0].meta.videos[0].id, 'maxnet:sports:10:src-0');
+  assert.strictEqual(metas[0].meta.videos[0].title, 'Fonte');
+});
+
+test('addon: withVideos=false remove a lista de fontes (abre direto)', () => {
+  const link = `http://${HOST}:80/live/1/2/749.m3u8`;
+  const channels = [channel('maxnet:sports:10', 'SporTV', [{ name: 'Fonte', link }], { category: 'sports' })];
+  const { metas } = buildAddonPayloads(channels, { hwHosts, compatIds: new Set(), withVideos: false });
+  assert.strictEqual(metas[0].meta.videos, undefined);
+});
+
+test('addon: cada fonte reproduzivel toca a propria URL (src-N distinto)', () => {
+  const link0 = `http://${HOST}:80/live/1/2/749.m3u8`;
+  const link1 = `http://${HOST}:80/live/1/2/2376.m3u8`;
+  const channels = [
+    channel('maxnet:abertos:7', 'Globo', [
+      { name: 'Globo SP(CDN)', link: link0 },
+      { name: 'Globo RJ(CDN)', link: link1 },
+    ], { category: 'abertos' }),
+  ];
+  const { streams, metas } = buildAddonPayloads(channels, { hwHosts, compatIds: new Set() });
+  const src0 = streams.find((s) => s.id === 'maxnet:abertos:7:src-0');
+  const src1 = streams.find((s) => s.id === 'maxnet:abertos:7:src-1');
+  assert.strictEqual(src0.url, link0);
+  assert.strictEqual(src1.url, link1);
+  assert.notStrictEqual(src0.url, src1.url);
+  assert.deepStrictEqual(metas[0].meta.videos.map((v) => v.id), ['maxnet:abertos:7:src-0', 'maxnet:abertos:7:src-1']);
+});
+
+test('addon: fonte que exigiria proxy fica fora de videos e streams', () => {
+  const link = `http://${HOST}:80/live/1/2/749.m3u8`;
+  const channels = [
+    channel('maxnet:sports:10', 'SporTV', [
+      { name: 'Opcao 01(CDN)', link },
+      { name: 'Opcao 02', link: 'http://191.96.224.143/x.m3u8' },
+    ], { category: 'sports' }),
+  ];
+  const { streams, metas } = buildAddonPayloads(channels, { hwHosts, compatIds: new Set() });
+  const ids = streams.map((s) => s.id);
+  assert.ok(ids.includes('maxnet:sports:10:src-0'));
+  assert.ok(!ids.includes('maxnet:sports:10:src-1'));
+  assert.deepStrictEqual(metas[0].meta.videos.map((v) => v.id), ['maxnet:sports:10:src-0']);
+});
+
+test('addon: fonte direta de canal na lista precisa entra (sem host header)', () => {
+  const link = 'http://hls1.sua.tv/live/globo/s.m3u8';
+  const channels = [channel('maxnet:abertos:7', 'Globo', [{ name: 'Globo BA(CDN)', link }], { category: 'abertos' })];
+  const { streams, metas } = buildAddonPayloads(channels, {
+    hwHosts,
+    compatIds: new Set(['maxnet:abertos:7']),
+  });
   assert.strictEqual(streams[0].url, link);
-  assert.ok(!streams[0].url.includes('/proxy'));
+  assert.strictEqual(metas[0].meta.videos[0].id, 'maxnet:abertos:7:src-0');
+});
+
+test('resolveSourceRawUrl: header, direto (canal compat), e vazio', () => {
+  const header = channel('maxnet:sports:10', 'A', [{ link: `http://${HOST}/a.m3u8` }]);
+  assert.strictEqual(resolveSourceRawUrl(header, header.sources[0], { hwHosts, compatIds: new Set() }), `http://${HOST}/a.m3u8`);
+
+  const direct = channel('maxnet:abertos:7', 'B', [{ link: 'http://hls1.sua.tv/live/globo/s.m3u8' }]);
+  assert.strictEqual(
+    resolveSourceRawUrl(direct, direct.sources[0], { hwHosts, compatIds: new Set(['maxnet:abertos:7']) }),
+    'http://hls1.sua.tv/live/globo/s.m3u8'
+  );
+
+  const none = channel('maxnet:24horas:99', 'C', [{ link: 'http://191.96.224.143/x.m3u8' }]);
+  assert.strictEqual(resolveSourceRawUrl(none, none.sources[0], { hwHosts, compatIds: new Set(['maxnet:abertos:7']) }), '');
+
+  assert.strictEqual(resolveSourceRawUrl(null, null, { hwHosts, compatIds: new Set() }), '');
 });
 
 test('addon: canal na lista precisa sem host de header usa URL direta', () => {

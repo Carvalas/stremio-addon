@@ -232,6 +232,10 @@ UTC — renovando sozinho os links `dns` (que rotacionam por sessão):
    `/manifest.json`).
 2. Abra o catálogo Max Net TV → canal → play.
 
+Cada canal lista as **fontes** reproduzíveis como opções (ex.: Globo SP, Globo RJ,
+Opção 01/02) — cada uma toca **o próprio sinal**. Fontes que só funcionam via
+proxy (hosts não confirmados) **não aparecem** na lista.
+
 Para gerar localmente (opcional):
 
 ```bash

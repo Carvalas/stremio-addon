@@ -51,7 +51,11 @@ async function main() {
   const hwHosts = compat.loadHostSet();
   const compatIds = compat.load();
   const channels = await channelService.getChannels();
-  const { manifest, catalogs, streams, metas } = buildAddonPayloads(channels, { hwHosts, compatIds });
+  const { manifest, catalogs, streams, metas } = buildAddonPayloads(channels, {
+    hwHosts,
+    compatIds,
+    withVideos: true,
+  });
 
   writeJson(path.join(outDir, 'manifest.json'), manifest);
 
@@ -75,7 +79,9 @@ async function main() {
   console.log('Modo: estatico (links crus, sem servidor)');
   console.log(`Manifest: ${path.join(outDir, 'manifest.json')}`);
   console.log(`Catálogos: ${catalogs.length} (${catalogTotal} itens no total; Todos: ${todos ? todos.metas.length : 0})`);
-  console.log(`Streams com URL crua: ${streams.length}/${channels.length} canais`);
+  console.log(`Canais com URL crua: ${metas.length}/${channels.length}`);
+  console.log(`Opções de reprodução (fontes): ${streams.length - metas.length}`);
+  console.log(`Arquivos de stream: ${streams.length} (id do canal + 1 por opção)`);
   console.log(`Metas: ${metas.length}`);
   if (sanitize) {
     console.log('AVISO (Windows): nomes de stream/meta gravados com "_" em vez de ":" (preview local).');
