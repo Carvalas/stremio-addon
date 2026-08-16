@@ -31,6 +31,9 @@ jobs:
       - name: Gerar M3U com links crus (sem servidor)
         run: node scripts/export-m3u.js --raw --out out/playlist-raw.m3u
 
+      - name: Gerar addon estatico (manifest/catalog/stream/meta)
+        run: node scripts/export-addon.js --out out
+
       - name: Publicar em gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -40,5 +43,5 @@ jobs:
           force_orphan: true
           enable_jekyll: false
 
-      - name: URL final
-        run: 'echo "URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/playlist-raw.m3u"'
+      - name: URLs finais
+        run: 'echo "M3U: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/playlist-raw.m3u" && echo "Addon: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/manifest.json"'

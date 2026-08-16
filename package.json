@@ -7,7 +7,9 @@
     "start": "node src/server.js",
     "dev": "node src/server.js",
     "test": "node --test",
-    "analyze-streams": "node scripts/analyze-streams.js"
+    "analyze-streams": "node scripts/analyze-streams.js",
+    "export-m3u": "node scripts/export-m3u.js",
+    "export-addon": "node scripts/export-addon.js"
   },
   "keywords": [
     "stremio",

@@ -27,17 +27,17 @@ existe instalação por arquivo local. Portanto:
 > "Não é possível cumprir o requisito de zero servidor com um addon tradicional
 > do Stremio **para outros dispositivos**."
 
-Na prática, o modo que cumpre o objetivo **sem manter um backend permanente** é:
+Na prática, há dois modos de uso:
 
 ```
 PC (mesma máquina do Stremio)  →  Node.js local  →  Stremio desktop
 ```
 
 Você roda `npm start`, instala `http://localhost:7000/manifest.json` e o addon
-funciona sem nenhuma hospedagem/VPS/domínio. Na sua própria máquina ele
-permanece instalado enquanto o processo estiver no ar. Para outros dispositivos
-seria preciso publicar o manifest (GitHub Pages é possível para addon 100%
-estático — e **não** serve a este caso, pois os dados vêm da API em tempo real).
+funciona sem nenhuma hospedagem/VPS/domínio, enquanto o processo estiver no ar.
+Para **outros dispositivos / sem o PC ligado**, existe o addon **estático** em
+GitHub Pages (ver seção 8b — Opção B): o workflow gera manifest + catálogos +
+streams com links crus e publica tudo em gh-pages, renovando os links diariamente.
 
 ## 3. Requisitos
 
@@ -204,44 +204,48 @@ do ar; nesses casos o probe falha e o addon não entrega o stream (honesto).
 Um canal só para de existir se o stream exigir headers (vai aparecer sem
 streams — comportamento honesto, de acordo com o probe).
 
-## 8b. Usar no Nuvio (players IPTV) — via M3U
+## 8b. Usar no Nuvio
 
-O Nuvio não instala addon Stremio; ele consome **lista M3U + EPG**. O servidor
-expõe os canais reproduzíveis em `GET /playlist.m3u` (mesmo gate do catálogo:
-fonte em host HEADER_WORKING → URL via `/proxy?u=...`; senão fonte direta):
+O Nuvio (nuvio.tv) é um app **baseado em addons** (protocolo Stremio) — ele **não**
+consome lista M3U. Para usar os canais no Nuvio, instale o **addon** por URL:
 
-1. Servidor rodando.
-2. No Nuvio: **Adicionar lista por URL** → `http://localhost:7000/playlist.m3u`.
-3. (Opcional) EPG: na mesma lista, configurar EPG → `http://localhost:7000/epg.xml`.
+### Opção A — servidor local (PC ligado)
 
-As URLs dentro do M3U usam `PROXY_BASE_URL` (ou o default `http://localhost:7000`).
-Para usar o Nuvio em **outro aparelho** (celular/TV), o servidor precisa estar
-acessível por IP (ex.: `http://192.168.1.10:7000`) — sete `PROXY_BASE_URL` e
-`PUBLIC_URL` com esse endereço e libere a porta no firewall.
+1. `npm start` (sobe em `http://localhost:7000`).
+2. No Nuvio: **Addons → Adicionar Addon** → cole `http://localhost:7000` → **Instalar**.
+3. Abra o catálogo Max Net TV → canal → play.
 
-### Sem servidor (M3U estático, links crus)
+Para instalar de **outro aparelho** (celular/TV), o servidor precisa estar
+acessível pela rede: use o IP da máquina (ex.: `http://192.168.1.10:7000`),
+setando `PUBLIC_URL`/`PROXY_BASE_URL` para esse endereço e liberando a porta no
+firewall. Enquanto o PC estiver ligado, esse modo tem **proxy/prefetch/retry**
+(a reprodução é mais suave quando o CDN está lento).
 
-Os canais que funcionam hoje (`dns.explouddev.com`) **aceitam a UA de qualquer
-player** (ExoPlayer/Nuvio incluído) — o gate HEADER é conservador. Dá para gerar
-um M3U com os **links crus** (sem `/proxy`) e hospedar como arquivo estático:
+### Opção B — addon estático em GitHub Pages (sem servidor, PC pode desligar)
+
+O workflow `.github/workflows/playlist.yml` gera um **addon estático** (manifest +
+catálogos + streams com links crus) e publica em GitHub Pages todo dia às 04:00
+UTC — renovando sozinho os links `dns` (que rotacionam por sessão):
+
+1. No Nuvio: **Addons → Adicionar Addon** → cole a **base** do seu Pages
+   (`https://<usuario>.github.io/<repo>/`) → **Instalar** (ele adiciona
+   `/manifest.json`).
+2. Abra o catálogo Max Net TV → canal → play.
+
+Para gerar localmente (opcional):
 
 ```bash
-# gera out/playlist-raw.m3u (links crus + url-tvg do EPG do provedor)
-node scripts/export-m3u.js --raw --out out/playlist-raw.m3u
+npm run export-addon          # grava out/ (manifest, catalog/, stream/, meta/)
 ```
 
-Ou pela própria lista, sem arquivo: `GET /playlist.m3u?direct=1`.
+Tradeoffs da Opção B: sem proxy/prefetch/retry — se o CDN estiver lento pode
+voltar a travar às vezes; canal com 503 no momento não abre até normalizar.
 
-Depois é só hospedar o arquivo num URL estático (GitHub Pages, Dropbox link
-direto, Gist raw) e carregar no Nuvio. **Zero servidor — o PC pode desligar.**
+### M3U (players IPTV clássicos)
 
-- O EPG vem junto via `url-tvg` (XMLTV do provedor, sem depender do addon).
-- Links `dns` rotacionam por sessão: quando um canal cair, **regenera o arquivo**
-  (ou automatize — `.github/workflows/playlist.yml` publica o M3U cru todo dia
-  em GitHub Pages, renovando os links sozinho).
-- Tradeoffs: sem servidor não há prefetch/retry do proxy — se o CDN estiver
-  lento, pode voltar a travar às vezes; canal com 503 no momento não abre até
-  normalizar (comportamento do próprio app).
+A rota `/playlist.m3u` e o arquivo `out/playlist-raw.m3u` continuam disponíveis
+para players que **consomem M3U** (TiviMate, Smarters, VLC, etc.) — mas o **Nuvio
+não** usa esse formato.
 
 ## 8c. Funcionar 24/7 sem o seu PC
 
@@ -251,7 +255,7 @@ Guia passo a passo no arquivo `Como Instalar no Oracle Cloud.md` (Oracle Cloud
 Always Free, VPS grátis e permanente). Após o deploy:
 
 - Stremio: instalar `http://<IP>:7000/manifest.json`.
-- Nuvio: lista `http://<IP>:7000/playlist.m3u` + EPG `http://<IP>:7000/epg.xml`.
+- Nuvio: instalar o addon `http://<IP>:7000` (Addons → Adicionar Addon).
 
 ## 9. Proxy?
 

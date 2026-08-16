@@ -69,18 +69,14 @@ function buildM3uFrom(
     // 1) fonte com host confirmado HEADER_WORKING (mesmo gate do catálogo)
     const headerSource = channel.sources.find((s) => s && s.link && hwHosts.has(hostOf(s.link)));
     if (headerSource) {
-      const link = streamService.normalizePlutoPlaceholders(headerSource.link);
       if (raw) {
-        url = link; // modo estático: link cru, sem proxy
+        url = resolveRawUrl(channel, { hwHosts, compatIds }); // modo estático: link cru, sem proxy
       } else if (proxyBaseNorm) {
-        url = `${proxyBaseNorm}/proxy?u=${encodeURIComponent(link)}`;
+        url = `${proxyBaseNorm}/proxy?u=${encodeURIComponent(streamService.normalizePlutoPlaceholders(headerSource.link))}`;
       }
     } else if (compatIds && compatIds.has(channel.id)) {
       // 2) canal na lista precisa → usa a primeira fonte (direta confirmada)
-      const direct = channel.sources.find((s) => s && /^https?:\/\//i.test(s.link));
-      if (direct) {
-        url = streamService.normalizePlutoPlaceholders(direct.link);
-      }
+      url = resolveRawUrl(channel, { hwHosts, compatIds });
     }
 
     if (!url) continue;
@@ -99,6 +95,25 @@ function buildM3uFrom(
 
   lines.push('');
   return lines.join('\n');
+}
+
+/**
+ * URL crua reproduzível para um canal (mesma lógica de gate do catálogo):
+ *   • primeira fonte em host confirmado HEADER_WORKING → link cru;
+ *   • senão, canal na lista precisa → primeira fonte direta confirmada.
+ * Retorna '' quando o canal não tem URL utilizável sem servidor.
+ * @param {object} channel modelo interno do canal
+ * @param {object} opts { hwHosts: Set, compatIds: Set|null }
+ */
+function resolveRawUrl(channel, { hwHosts = new Set(), compatIds = null } = {}) {
+  if (!channel || !Array.isArray(channel.sources) || !channel.sources.length) return '';
+  const headerSource = channel.sources.find((s) => s && s.link && hwHosts.has(hostOf(s.link)));
+  if (headerSource) return streamService.normalizePlutoPlaceholders(headerSource.link);
+  if (compatIds && compatIds.has(channel.id)) {
+    const direct = channel.sources.find((s) => s && /^https?:\/\//i.test(s.link));
+    if (direct) return streamService.normalizePlutoPlaceholders(direct.link);
+  }
+  return '';
 }
 
 /**
@@ -127,6 +142,7 @@ async function buildM3uText({ raw = false } = {}) {
 module.exports = {
   buildM3uFrom,
   buildM3uText,
+  resolveRawUrl,
   hostOf,
   cleanAttr,
   cleanName,
