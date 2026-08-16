@@ -40,18 +40,26 @@ test('m3u: fonte em host HEADER_WORKING vira URL de proxy', () => {
   );
 });
 
-test('m3u: canal na lista precisa sem host de header usa URL direta', () => {
+test('m3u: host direto confirmado sem host de header usa URL direta', () => {
   const link = 'http://hls1.sua.tv/live/globo/s.m3u8';
   const channels = [channel('maxnet:abertos:7', 'Globo', [{ name: 'Fonte', link }])];
-  const out = buildM3uFrom(channels, { hwHosts, compatIds: new Set(['maxnet:abertos:7']), proxyBase: PROXY });
+  const out = buildM3uFrom(channels, {
+    hwHosts,
+    directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() },
+    proxyBase: PROXY,
+  });
   assert.ok(out.includes(`\n${link}\n`));
 });
 
-test('m3u: canal fora da lista e sem host de header é pulado', () => {
+test('m3u: canal com fonte UNKNOWN e sem host de header é pulado', () => {
   const channels = [
     channel('maxnet:24horas:99', 'X', [{ name: 'Fonte', link: 'http://191.96.224.143/x.m3u8' }]),
   ];
-  const out = buildM3uFrom(channels, { hwHosts, compatIds: new Set(['maxnet:abertos:7']), proxyBase: PROXY });
+  const out = buildM3uFrom(channels, {
+    hwHosts,
+    directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() },
+    proxyBase: PROXY,
+  });
   assert.strictEqual(out.trim(), '#EXTM3U');
 });
 
@@ -157,7 +165,7 @@ test('m3u: modo raw mantém diretos como URL direta', () => {
   const channels = [channel('maxnet:abertos:7', 'Globo', [{ name: 'Fonte', link }])];
   const out = buildM3uFrom(channels, {
     hwHosts,
-    compatIds: new Set(['maxnet:abertos:7']),
+    directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() },
     proxyBase: PROXY,
     raw: true,
   });

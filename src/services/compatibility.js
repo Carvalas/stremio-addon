@@ -4,15 +4,17 @@ const path = require('path');
 const OUT_DIR = process.env.ANALYZE_OUT_DIR || path.join(process.cwd(), 'out');
 const COMPAT_FILE = process.env.COMPAT_FILE || path.join(OUT_DIR, 'compatible-channels.json');
 const HW_FILE = process.env.HEADER_WORKING_FILE || path.join(OUT_DIR, 'header-working-sources.json');
+const DIRECT_FILE = process.env.DIRECT_WORKING_FILE || path.join(OUT_DIR, 'direct-working-sources.json');
 
 const enabled = process.env.ONLY_COMPATIBLE !== 'false';
 
 let cached = null; // { ids: Set, mtime, file }
 let hostCache = null; // { hosts: Set, mtime }
+let directCache = null; // { hosts: Set, badLinks: Set, mtime }
 
 function readCompatFile(file) {
   try {
-    const raw = fs.readFileSync(file, 'utf8');
+    const raw = fs.readFileSync(file, 'utf8').replace(/^\uFEFF/, '');
     const list = JSON.parse(raw);
     if (!Array.isArray(list)) return null;
     return list.filter((c) => c && c.id);
@@ -63,6 +65,28 @@ function loadHostSet() {
     return hosts;
   } catch {
     return new Set();
+  }
+}
+
+/** Gate de fontes DIRECT_WORKING: hosts confiáveis + links conhecidamente ruins. */
+function loadDirectGate() {
+  if (!enabled) return { hosts: new Set(), badLinks: new Set() };
+  try {
+    const st = fs.statSync(DIRECT_FILE);
+    if (directCache && directCache.mtime === st.mtimeMs) return directCache;
+    const data = JSON.parse(fs.readFileSync(DIRECT_FILE, 'utf8').replace(/^\uFEFF/, ''));
+    const hosts = new Set();
+    const badLinks = new Set();
+    if (data && Array.isArray(data.hosts)) {
+      for (const h of data.hosts) if (h) hosts.add(h);
+    }
+    if (data && Array.isArray(data.badLinks)) {
+      for (const l of data.badLinks) if (l) badLinks.add(l);
+    }
+    directCache = { hosts, badLinks, mtime: st.mtimeMs };
+    return directCache;
+  } catch {
+    return { hosts: new Set(), badLinks: new Set() };
   }
 }
 
@@ -119,8 +143,10 @@ module.exports = {
   enabled,
   load,
   loadHostSet,
+  loadDirectGate,
   filterChannelsWithHosts,
   buildCompatibleList,
   filterChannels,
   COMPAT_FILE,
+  DIRECT_FILE,
 };

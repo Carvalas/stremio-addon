@@ -1,7 +1,7 @@
 {
   "name": "stremio-maxnettv",
-  "version": "1.1.1",
-  "description": "Addon Stremio com canais de TV baseado na API usada pelo Max Net TV (explouddev.com.br)",
+  "version": "1.1.2",
+  "description": "Addon de TV ao vivo com streams HLS reproduzíveis diretamente, sem servidor próprio",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
@@ -14,9 +14,8 @@
   "keywords": [
     "stremio",
     "addon",
-    "iptv",
     "tv",
-    "maxnettv"
+    "live"
   ],
   "license": "MIT",
   "engines": {

@@ -50,10 +50,12 @@ async function main() {
 
   const hwHosts = compat.loadHostSet();
   const compatIds = compat.load();
+  const directGate = compat.loadDirectGate();
   const channels = await channelService.getChannels();
   const { manifest, catalogs, streams, metas } = buildAddonPayloads(channels, {
     hwHosts,
     compatIds,
+    directGate,
     withVideos: true,
   });
 

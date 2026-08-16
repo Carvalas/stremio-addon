@@ -7,3 +7,4 @@ test_*.json
 out/*
 !out/header-working-sources.json
 !out/compatible-channels.json
+!out/direct-working-sources.json

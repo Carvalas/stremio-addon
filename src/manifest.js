@@ -5,10 +5,10 @@ const version = require('../package.json').version;
 const manifest = {
   id: 'com.maxnet.stremio',
   version,
-  name: 'Max Net TV',
+  name: 'Live TV',
   description:
-    'Canais de TV ao vivo Max Net TV (abertos, esportes, notícias, infantil, variedades, 24 horas). Baseado na API pública usada pelo aplicativo Max Net TV.',
-  logo: 'https://explouddev.com/maxnettv/logos/mntv_globo0001.png',
+    'Catálogo de canais de TV ao vivo (abertos, esportes, notícias, infantil, variedades, documentários, 24 horas). Cada fonte é classificada por um probe HTTP e só é entregue se reproduzível diretamente, sem servidor ou proxy próprio.',
+  logo: 'https://raw.githubusercontent.com/carvalas/stremio-addon/main/logo.svg',
   resources: ['catalog', 'meta', 'stream'],
   types: ['channel'],
   idPrefixes: ['maxnet:'],

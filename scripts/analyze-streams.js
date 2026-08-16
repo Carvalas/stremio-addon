@@ -27,6 +27,7 @@
  *   streams-detail.json        por fonte
  *   hosts-report.json          agrupado por host
  *   compatible-channels.json   canais DIRECT_WORKING (para o addon)
+ *   direct-working-sources.json fontes DIRECT_WORKING (links crus, addon estático)
  *   history/<data>.json        snapshot diário
  *
  * Uso:
@@ -513,6 +514,32 @@ async function main() {
   fs.writeFileSync(
     path.join(OUT_DIR, 'header-working-sources.json'),
     JSON.stringify(hwRows, null, 2)
+  );
+
+  // ---- fontes DIRECT_WORKING: base do addon estático (links crus sem headers) ----
+  // Gate POR HOST (links diretos também rotacionam): um host com ≥1 fonte
+  // DIRECT_WORKING é confiável; links conhecidamente ruins nesses hosts ficam
+  // fora (badLinks) até o link voltar a ser confirmado.
+  const BAD_STATUSES = [
+    'PLAYLIST_ONLY', 'PLAYLIST_401', 'PLAYLIST_403', 'SEGMENT_401', 'SEGMENT_403',
+    'SEGMENT_404', 'PROTECTED', 'WEB', 'GETLINK', 'DEAD_HOST', 'TIMEOUT', 'UNKNOWN', 'INVALID',
+  ];
+  const directRows = perSource.filter((s) => s.status === 'DIRECT_WORKING');
+  const directHosts = [...new Set(directRows.map((s) => s.host))].sort();
+  const badLinks = perSource
+    .filter((s) => BAD_STATUSES.includes(s.status))
+    .map((s) => s.link);
+  fs.writeFileSync(
+    path.join(OUT_DIR, 'direct-working-sources.json'),
+    JSON.stringify(
+      {
+        hosts: directHosts,
+        badLinks,
+        sources: directRows.map((s) => ({ channelId: s.channelId, name: s.source, link: s.link, host: s.host })),
+      },
+      null,
+      2
+    )
   );
 
   // ---- histórico ----

@@ -1,5 +1,5 @@
 /**
- * m3uService — gera uma playlist M3U consumível por players IPTV (Nuvio, etc.).
+ * m3uService — gera uma playlist M3U consumível por players externos.
  *
  * Para cada canal reproduzível (mesmo gate do catálogo: lista precisa OU fonte
  * em host HEADER_WORKING), emite uma entrada apontando para:
@@ -49,11 +49,11 @@ function categoryLabel(apiKey) {
  * Constrói a playlist a partir de canais normalizados.
  * @param {Array} channels canais de channelService.getChannels()
  * @param {object} opts
- *   { hwHosts: Set, compatIds: Set|null, proxyBase: string, raw: boolean, epgUrl: string }
+ *   { hwHosts: Set, directGate: { hosts: Set, badLinks: Set }, proxyBase: string, raw: boolean, epgUrl: string }
  */
 function buildM3uFrom(
   channels,
-  { hwHosts = new Set(), compatIds = null, proxyBase = '', raw = false, epgUrl = '' } = {}
+  { hwHosts = new Set(), directGate = { hosts: new Set(), badLinks: new Set() }, proxyBase = '', raw = false, epgUrl = '' } = {}
 ) {
   if (!Array.isArray(channels)) return '#EXTM3U\n';
   const proxyBaseNorm = String(proxyBase || '').replace(/\/+$/, '');
@@ -70,13 +70,13 @@ function buildM3uFrom(
     const headerSource = channel.sources.find((s) => s && s.link && hwHosts.has(hostOf(s.link)));
     if (headerSource) {
       if (raw) {
-        url = resolveRawUrl(channel, { hwHosts, compatIds }); // modo estático: link cru, sem proxy
+        url = resolveRawUrl(channel, { hwHosts, directGate }); // modo estático: link cru, sem proxy
       } else if (proxyBaseNorm) {
         url = `${proxyBaseNorm}/proxy?u=${encodeURIComponent(streamService.normalizePlutoPlaceholders(headerSource.link))}`;
       }
-    } else if (compatIds && compatIds.has(channel.id)) {
-      // 2) canal na lista precisa → usa a primeira fonte (direta confirmada)
-      url = resolveRawUrl(channel, { hwHosts, compatIds });
+    } else {
+      // 2) senão, fonte em host DIRECT_WORKING sem link ruim (sem headers)
+      url = resolveRawUrl(channel, { hwHosts, directGate });
     }
 
     if (!url) continue;
@@ -100,19 +100,21 @@ function buildM3uFrom(
 /**
  * URL crua reproduzível para um canal (mesma lógica de gate do catálogo):
  *   • primeira fonte em host confirmado HEADER_WORKING → link cru;
- *   • senão, canal na lista precisa → primeira fonte direta confirmada.
+ *   • senão, primeira fonte em host DIRECT_WORKING sem link ruim → link cru.
  * Retorna '' quando o canal não tem URL utilizável sem servidor.
  * @param {object} channel modelo interno do canal
- * @param {object} opts { hwHosts: Set, compatIds: Set|null }
+ * @param {object} opts { hwHosts: Set, directGate: { hosts: Set, badLinks: Set } }
  */
-function resolveRawUrl(channel, { hwHosts = new Set(), compatIds = null } = {}) {
+function resolveRawUrl(channel, { hwHosts = new Set(), directGate = { hosts: new Set(), badLinks: new Set() } } = {}) {
   if (!channel || !Array.isArray(channel.sources) || !channel.sources.length) return '';
   const headerSource = channel.sources.find((s) => s && s.link && hwHosts.has(hostOf(s.link)));
   if (headerSource) return streamService.normalizePlutoPlaceholders(headerSource.link);
-  if (compatIds && compatIds.has(channel.id)) {
-    const direct = channel.sources.find((s) => s && /^https?:\/\//i.test(s.link));
-    if (direct) return streamService.normalizePlutoPlaceholders(direct.link);
-  }
+  const direct = channel.sources.find((s) => {
+    if (!s || !s.link) return false;
+    const norm = streamService.normalizePlutoPlaceholders(s.link);
+    return directGate.hosts.has(hostOf(s.link)) && !directGate.badLinks.has(norm);
+  });
+  if (direct) return streamService.normalizePlutoPlaceholders(direct.link);
   return '';
 }
 
@@ -121,10 +123,10 @@ function resolveRawUrl(channel, { hwHosts = new Set(), compatIds = null } = {}) 
  * @param {object} opts { raw: boolean } — raw=true → links crus + url-tvg (sem servidor)
  */
 async function buildM3uText({ raw = false } = {}) {
-  const [channels, hwHosts, compatIds] = await Promise.all([
+  const [channels, hwHosts, directGate] = await Promise.all([
     channelService.getChannels(),
     Promise.resolve(compat.loadHostSet()),
-    Promise.resolve(compat.load()),
+    Promise.resolve(compat.loadDirectGate()),
   ]);
   const proxyBase = String(
     process.env.PROXY_BASE_URL || config.publicBaseUrl()
@@ -132,7 +134,7 @@ async function buildM3uText({ raw = false } = {}) {
   const epgBase = String(process.env.EPG_BASE_URL || DEFAULT_EPG_BASE).replace(/\/+$/, '');
   return buildM3uFrom(channels, {
     hwHosts,
-    compatIds,
+    directGate,
     proxyBase,
     raw,
     epgUrl: raw ? `${epgBase}/api/app/epg.xml` : '',

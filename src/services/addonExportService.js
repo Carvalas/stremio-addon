@@ -4,7 +4,8 @@
  *
  * Usa o MESMO gate do catálogo/M3U:
  *   • catálogos por categoria filtrados por compatibilidade (ids/hosts);
- *   • stream com link CRU (sem /proxy) via resolveSourceRawUrl — por FONTE;
+ *   • stream com link CRU (sem /proxy) via resolveSourceRawUrl — por FONTE
+ *     (host HEADER_WORKING ou link DIRECT_WORKING);
  *   • meta com lista de vídeos por padrão, contendo apenas fontes
  *     reproduzíveis (cada opção :src-N toca o próprio sinal).
  */
@@ -25,19 +26,21 @@ function catalogMetas(channels, apiKey, { hwHosts, compatIds }) {
 /**
  * URL crua reproduzível para UMA fonte específica (mesma lógica de gate):
  *   • host confirmado HEADER_WORKING → link cru da própria fonte;
- *   • senão, canal na lista precisa e fonte http → link direto;
- *   • senão '' (exigiria proxy → não reproduzível sem servidor).
+ *   • senão, host confirmado DIRECT_WORKING (e o link não é conhecidamente
+ *     ruim) → link cru (sem headers);
+ *   • senão '' (exigiria proxy ou não confirmado → fora do estático).
  * @param {object} channel modelo interno do canal
  * @param {object} source fonte (channel.sources[i])
- * @param {object} opts { hwHosts: Set, compatIds: Set|null }
+ * @param {object} opts { hwHosts: Set, directGate: { hosts: Set, badLinks: Set } }
  */
-function resolveSourceRawUrl(channel, source, { hwHosts = new Set(), compatIds = null } = {}) {
+function resolveSourceRawUrl(channel, source, { hwHosts = new Set(), directGate = { hosts: new Set(), badLinks: new Set() } } = {}) {
   if (!channel || !source || !source.link) return '';
   if (hwHosts.has(m3uService.hostOf(source.link))) {
     return streamService.normalizePlutoPlaceholders(source.link);
   }
-  if (compatIds && compatIds.has(channel.id) && /^https?:\/\//i.test(source.link)) {
-    return streamService.normalizePlutoPlaceholders(source.link);
+  const norm = streamService.normalizePlutoPlaceholders(source.link);
+  if (directGate.hosts.has(m3uService.hostOf(source.link)) && !directGate.badLinks.has(norm)) {
+    return norm;
   }
   return '';
 }
@@ -45,7 +48,10 @@ function resolveSourceRawUrl(channel, source, { hwHosts = new Set(), compatIds =
 /**
  * Monta os arquivos do addon estático.
  * @param {Array} channels canais normalizados (channelService.getChannels)
- * @param {object} opts { hwHosts: Set, compatIds: Set|null, withVideos: bool }
+ * @param {object} opts { hwHosts: Set, compatIds: Set|null, directGate: {hosts,badLinks}, withVideos: bool }
+ *   Gate por FONTE: a fonte entra se o host é HEADER_WORKING (hwHosts) OU host
+ *   DIRECT_WORKING (directGate.hosts) sem link ruim (badLinks). compatIds só
+ *   filtra o catálogo (canais).
  *   withVideos=true (padrão): a meta expõe `videos` com as fontes reproduzíveis
  *   (cada uma toca o próprio sinal via :src-N). Com false, sem lista na ficha
  *   (abertura direta pelo id do canal; os :src-N continuam gerados).
@@ -56,7 +62,10 @@ function resolveSourceRawUrl(channel, source, { hwHosts = new Set(), compatIds =
  *                                   (:src-N, com a própria URL crua)
  *   metas:    [{ id, meta }]      — somente canais com ≥1 fonte reproduzível
  */
-function buildAddonPayloads(channels, { hwHosts = new Set(), compatIds = null, withVideos = true } = {}) {
+function buildAddonPayloads(
+  channels,
+  { hwHosts = new Set(), compatIds = null, directGate = { hosts: new Set(), badLinks: new Set() }, withVideos = true } = {}
+) {
   const catalogs = CATEGORIES.map((c) => ({
     catalogId: c.catalogId,
     metas: catalogMetas(channels, c.apiKey, { hwHosts, compatIds }),
@@ -68,7 +77,7 @@ function buildAddonPayloads(channels, { hwHosts = new Set(), compatIds = null, w
     if (!ch || !ch.id) continue;
     const playable = [];
     for (let i = 0; i < (ch.sources || []).length; i++) {
-      const url = resolveSourceRawUrl(ch, ch.sources[i], { hwHosts, compatIds });
+      const url = resolveSourceRawUrl(ch, ch.sources[i], { hwHosts, directGate });
       if (url) playable.push({ i, url, name: ch.sources[i].name || `Fonte ${i + 1}` });
     }
     if (!playable.length) continue;

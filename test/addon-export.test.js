@@ -138,50 +138,109 @@ test('addon: fonte que exigiria proxy fica fora de videos e streams', () => {
   assert.deepStrictEqual(metas[0].meta.videos.map((v) => v.id), ['maxnet:sports:10:src-0']);
 });
 
-test('addon: fonte direta de canal na lista precisa entra (sem host header)', () => {
+test('addon: fonte em host direto confirmado (DIRECT_WORKING) entra sem headers', () => {
   const link = 'http://hls1.sua.tv/live/globo/s.m3u8';
   const channels = [channel('maxnet:abertos:7', 'Globo', [{ name: 'Globo BA(CDN)', link }], { category: 'abertos' })];
   const { streams, metas } = buildAddonPayloads(channels, {
     hwHosts,
     compatIds: new Set(['maxnet:abertos:7']),
+    directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() },
   });
   assert.strictEqual(streams[0].entries[0].url, link);
   assert.strictEqual(metas[0].meta.videos[0].id, 'maxnet:abertos:7:src-0');
 });
 
-test('resolveSourceRawUrl: header, direto (canal compat), e vazio', () => {
+test('addon: fonte UNKNOWN de canal na lista compat fica fora (nao confirmada)', () => {
+  // Canal com 2 fontes: uma HEADER_WORKING (entra) e uma UNKNOWN (191.96.224.143 → fora)
+  const hw = `http://${HOST}:80/live/1/2/2577.m3u8`;
+  const unknown = 'http://191.96.224.143:80/live/92370341211/30082393260/60809';
+  const channels = [
+    channel('maxnet:docs:4', 'Discovery Channel', [
+      { name: 'Opcao 01(CDN)', link: hw },
+      { name: 'Opcao 02(CDN 2)', link: unknown },
+    ], { category: 'docs' }),
+  ];
+  const { streams, metas } = buildAddonPayloads(channels, {
+    hwHosts,
+    compatIds: new Set(['maxnet:docs:4']),
+    directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() },
+  });
+  const ids = streams.map((s) => s.id);
+  assert.ok(ids.includes('maxnet:docs:4:src-0'));
+  assert.ok(!ids.includes('maxnet:docs:4:src-1'));
+  const chan = streams.find((s) => s.id === 'maxnet:docs:4');
+  assert.strictEqual(chan.entries.length, 1);
+  assert.strictEqual(chan.entries[0].url, hw);
+  assert.deepStrictEqual(metas[0].meta.videos.map((v) => v.id), ['maxnet:docs:4:src-0']);
+});
+
+test('addon: link ruim (badLinks) em host direto fica fora', () => {
+  const bad = 'http://hls1.sua.tv/live/globo/antigo.m3u8';
+  const channels = [
+    channel('maxnet:abertos:7', 'Globo', [{ name: 'Fonte', link: bad }], { category: 'abertos' }),
+  ];
+  const { streams, metas } = buildAddonPayloads(channels, {
+    hwHosts,
+    compatIds: new Set(['maxnet:abertos:7']),
+    directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set([bad]) },
+  });
+  assert.strictEqual(streams.length, 0);
+  assert.strictEqual(metas.length, 0);
+});
+
+test('resolveSourceRawUrl: header, host direto, link ruim, e vazio', () => {
   const header = channel('maxnet:sports:10', 'A', [{ link: `http://${HOST}/a.m3u8` }]);
-  assert.strictEqual(resolveSourceRawUrl(header, header.sources[0], { hwHosts, compatIds: new Set() }), `http://${HOST}/a.m3u8`);
+  assert.strictEqual(
+    resolveSourceRawUrl(header, header.sources[0], { hwHosts, directGate: { hosts: new Set(), badLinks: new Set() } }),
+    `http://${HOST}/a.m3u8`
+  );
 
   const direct = channel('maxnet:abertos:7', 'B', [{ link: 'http://hls1.sua.tv/live/globo/s.m3u8' }]);
   assert.strictEqual(
-    resolveSourceRawUrl(direct, direct.sources[0], { hwHosts, compatIds: new Set(['maxnet:abertos:7']) }),
+    resolveSourceRawUrl(direct, direct.sources[0], {
+      hwHosts,
+      directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() },
+    }),
     'http://hls1.sua.tv/live/globo/s.m3u8'
   );
 
-  const none = channel('maxnet:24horas:99', 'C', [{ link: 'http://191.96.224.143/x.m3u8' }]);
-  assert.strictEqual(resolveSourceRawUrl(none, none.sources[0], { hwHosts, compatIds: new Set(['maxnet:abertos:7']) }), '');
+  const bad = channel('maxnet:abertos:7', 'B2', [{ link: 'http://hls1.sua.tv/live/globo/antigo.m3u8' }]);
+  assert.strictEqual(
+    resolveSourceRawUrl(bad, bad.sources[0], {
+      hwHosts,
+      directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set(['http://hls1.sua.tv/live/globo/antigo.m3u8']) },
+    }),
+    ''
+  );
 
-  assert.strictEqual(resolveSourceRawUrl(null, null, { hwHosts, compatIds: new Set() }), '');
+  const none = channel('maxnet:24horas:99', 'C', [{ link: 'http://191.96.224.143/x.m3u8' }]);
+  assert.strictEqual(
+    resolveSourceRawUrl(none, none.sources[0], { hwHosts, directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() } }),
+    ''
+  );
+
+  assert.strictEqual(resolveSourceRawUrl(null, null, { hwHosts, directGate: { hosts: new Set(), badLinks: new Set() } }), '');
 });
 
-test('addon: canal na lista precisa sem host de header usa URL direta', () => {
+test('addon: host direto confirmado sem host de header usa URL direta', () => {
   const link = 'http://hls1.sua.tv/live/globo/s.m3u8';
   const channels = [channel('maxnet:abertos:7', 'Globo', [{ name: 'Fonte', link }], { category: 'abertos' })];
   const { streams } = buildAddonPayloads(channels, {
     hwHosts,
     compatIds: new Set(['maxnet:abertos:7']),
+    directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() },
   });
   assert.strictEqual(streams[0].entries[0].url, link);
 });
 
-test('addon: canal sem URL crua fica fora de streams e metas', () => {
+test('addon: canal sem URL crua confirmada fica fora de streams e metas', () => {
   const channels = [
     channel('maxnet:24horas:99', 'X', [{ link: 'http://191.96.224.143/x.m3u8' }], { category: '24horas' }),
   ];
   const { streams, metas } = buildAddonPayloads(channels, {
     hwHosts,
     compatIds: new Set(['maxnet:abertos:7']),
+    directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() },
   });
   assert.strictEqual(streams.length, 0);
   assert.strictEqual(metas.length, 0);
@@ -217,21 +276,21 @@ test('addon: payload de meta tem id/name/poster', () => {
   assert.strictEqual(metas[0].meta.poster, 'http://logo/x.png');
 });
 
-test('resolveRawUrl: header cru, direto, e vazio', () => {
+test('resolveRawUrl: header cru, host direto, e vazio', () => {
   const header = channel('maxnet:sports:10', 'A', [{ link: `http://${HOST}/a.m3u8` }]);
-  assert.strictEqual(resolveRawUrl(header, { hwHosts, compatIds: new Set() }), `http://${HOST}/a.m3u8`);
+  assert.strictEqual(resolveRawUrl(header, { hwHosts, directGate: { hosts: new Set(), badLinks: new Set() } }), `http://${HOST}/a.m3u8`);
 
   const direct = channel('maxnet:abertos:7', 'B', [{ link: 'http://hls1.sua.tv/live/globo/s.m3u8' }]);
   assert.strictEqual(
-    resolveRawUrl(direct, { hwHosts, compatIds: new Set(['maxnet:abertos:7']) }),
+    resolveRawUrl(direct, { hwHosts, directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() } }),
     'http://hls1.sua.tv/live/globo/s.m3u8'
   );
 
   const none = channel('maxnet:24horas:99', 'C', [{ link: 'http://191.96.224.143/x.m3u8' }]);
-  assert.strictEqual(resolveRawUrl(none, { hwHosts, compatIds: new Set(['maxnet:abertos:7']) }), '');
+  assert.strictEqual(resolveRawUrl(none, { hwHosts, directGate: { hosts: new Set(['hls1.sua.tv']), badLinks: new Set() } }), '');
 
-  assert.strictEqual(resolveRawUrl(header, { hwHosts: new Set(), compatIds: new Set() }), '');
-  assert.strictEqual(resolveRawUrl(null, { hwHosts, compatIds: new Set() }), '');
+  assert.strictEqual(resolveRawUrl(header, { hwHosts: new Set(), directGate: { hosts: new Set(), badLinks: new Set() } }), '');
+  assert.strictEqual(resolveRawUrl(null, { hwHosts, directGate: { hosts: new Set(), badLinks: new Set() } }), '');
 });
 
 test('addon: normaliza placeholders Pluto no link cru', () => {

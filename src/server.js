@@ -27,7 +27,7 @@ app.get('/health', (_req, res) => {
   });
 });
 
-// Playlist M3U para players IPTV (Nuvio, etc.) — mesmo gate do catálogo.
+// Playlist M3U para players externos — mesmo gate do catálogo.
 // ?direct=1 → links crus (para M3U estático sem servidor); default → via /proxy.
 app.get('/playlist.m3u', async (req, res) => {
   try {
