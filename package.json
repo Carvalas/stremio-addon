@@ -1,6 +1,6 @@
 {
   "name": "stremio-maxnettv",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Addon Stremio com canais de TV baseado na API usada pelo Max Net TV (explouddev.com.br)",
   "main": "src/server.js",
   "scripts": {

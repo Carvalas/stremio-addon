@@ -68,7 +68,7 @@ async function main() {
   const idToFile = (id) => (sanitize ? String(id).replace(/:/g, '_') : String(id));
   for (const s of streams) {
     writeJson(path.join(outDir, 'stream', 'channel', `${idToFile(s.id)}.json`), {
-      streams: [{ name: 'Max Net TV', title: 'Max Net TV', url: s.url }],
+      streams: s.entries,
     });
   }
   for (const m of metas) {

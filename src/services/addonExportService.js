@@ -51,8 +51,9 @@ function resolveSourceRawUrl(channel, source, { hwHosts = new Set(), compatIds =
  *   (abertura direta pelo id do canal; os :src-N continuam gerados).
  * @returns {{ manifest: object, catalogs: Array, streams: Array, metas: Array }}
  *   catalogs: [{ catalogId, metas }]
- *   streams:  [{ id, url }]       — id do canal + um por fonte reproduzível
- *                                   (:src-N, cada um com sua URL crua)
+ *   streams:  [{ id, entries }]   — id do canal (entries = TODAS as fontes
+ *                                   reproduzíveis, nomeadas) + um por fonte
+ *                                   (:src-N, com a própria URL crua)
  *   metas:    [{ id, meta }]      — somente canais com ≥1 fonte reproduzível
  */
 function buildAddonPayloads(channels, { hwHosts = new Set(), compatIds = null, withVideos = true } = {}) {
@@ -78,9 +79,12 @@ function buildAddonPayloads(channels, { hwHosts = new Set(), compatIds = null, w
     } else if (meta.videos) {
       delete meta.videos;
     }
-    streams.push({ id: ch.id, url: playable[0].url });
+    streams.push({
+      id: ch.id,
+      entries: playable.map((p) => ({ name: p.name, title: p.name, url: p.url })),
+    });
     for (const p of playable) {
-      streams.push({ id: `${ch.id}:src-${p.i}`, url: p.url });
+      streams.push({ id: `${ch.id}:src-${p.i}`, entries: [{ name: p.name, title: p.name, url: p.url }] });
     }
     metas.push({ id: ch.id, meta });
   }
