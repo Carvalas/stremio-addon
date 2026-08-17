@@ -468,7 +468,6 @@ próxima materialização. Não há mecanismo de retransmissão ou mascaramento.
 
 ### 15.3 Comando de execução
 
-```bash
 <comando-de-verificação-da-plataforma>
 
 O comando acima é um placeholder: o comando concreto de verificação não é publicado neste documento.
@@ -559,7 +558,3 @@ Este projeto é distribuído sob licença MIT, salvo disposição em contrário 
 
 A responsabilidade pela operação, conformidade legal e regulatória de qualquer instância desta plataforma é exclusivamente do operador. Este documento não constitui orientação jurídica.
 
-
----
-
-Depois de colar, é só fazer commit/push se quiser publicar (ou deixar local). Quer que eu prepare mais alguma coisa — por exemplo, o plano de tornar o repositório privado, ou conferir outros arquivos que ainda entregam informação?
