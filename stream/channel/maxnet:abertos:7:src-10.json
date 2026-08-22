@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Globo TV Diário CE(CDN)",
+      "title": "Globo TV Diário CE(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/530124.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Globo BA(CDN)",
+      "title": "Globo BA(CDN)",
+      "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
+    }
+  ]
+}

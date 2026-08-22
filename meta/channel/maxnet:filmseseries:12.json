@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:filmseseries:12",
+    "type": "channel",
+    "name": "HBO Signature",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_hbosignature0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_hbosignature0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_hbosignature0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "filmseseries"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:filmseseries:12:src-0",
+        "title": "Opção 01(CDN)"
+      }
+    ]
+  }
+}

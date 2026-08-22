@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "name": "Opção 01(CDN)",
+      "title": "Opção 01(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/682.m3u8"
+    },
+    {
+      "name": "Opção 02(CDN)",
+      "title": "Opção 02(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/680.m3u8"
+    },
+    {
+      "name": "Opção 03(CDN)",
+      "title": "Opção 03(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/679.m3u8"
+    }
+  ]
+}

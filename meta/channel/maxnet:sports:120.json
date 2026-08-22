@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "maxnet:sports:120",
+    "type": "channel",
+    "name": "Dazn",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_dazn0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_dazn0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_dazn0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "sports"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:sports:120:src-0",
+        "title": "Dazn 1(CDN)"
+      },
+      {
+        "id": "maxnet:sports:120:src-1",
+        "title": "Dazn 2(CDN)"
+      },
+      {
+        "id": "maxnet:sports:120:src-2",
+        "title": "Dazn 4(CDN)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "name": "Band SP(CDN)",
+      "title": "Band SP(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/255465.m3u8"
+    },
+    {
+      "name": "Band MG(CDN)",
+      "title": "Band MG(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/255482.m3u8"
+    },
+    {
+      "name": "Band BA(CDN)",
+      "title": "Band BA(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/286193.m3u8"
+    },
+    {
+      "name": "Band Brasília(CDN)",
+      "title": "Band Brasília(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/255472.m3u8"
+    }
+  ]
+}

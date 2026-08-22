@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "id": "maxnet:abertos:7",
+    "type": "channel",
+    "name": "Globo",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_globo0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_globo0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_globo0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "abertos"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:abertos:7:src-0",
+        "title": "Globo BA(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:7:src-1",
+        "title": "Globo SP(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:7:src-2",
+        "title": "Globo RJ(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:7:src-4",
+        "title": "Globo Centro América(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:7:src-5",
+        "title": "Globo Nordeste(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:7:src-6",
+        "title": "Globo TV Morena(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:7:src-7",
+        "title": "Globo Brasília(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:7:src-8",
+        "title": "Globo Inter TV Cabugi(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:7:src-9",
+        "title": "Globo Verde Mares(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:7:src-10",
+        "title": "Globo TV Diário CE(CDN)"
+      }
+    ]
+  }
+}

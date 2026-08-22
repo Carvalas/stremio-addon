@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "maxnet:infantil:1",
+    "type": "channel",
+    "name": "Cartoon Network",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "infantil"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:infantil:1:src-0",
+        "title": "Opção 01(CDN)"
+      },
+      {
+        "id": "maxnet:infantil:1:src-1",
+        "title": "Opção 02(CDN)"
+      }
+    ]
+  }
+}

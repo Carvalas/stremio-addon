@@ -1,0 +1,70 @@
+{
+  "metas": [
+    {
+      "id": "maxnet:events:7",
+      "type": "channel",
+      "name": "Hunter FM",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_hunterfm0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_hunterfm0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_hunterfm0001.png",
+      "genres": [
+        "Rádios - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:events:8",
+      "type": "channel",
+      "name": "Músicas 24h 1",
+      "poster": "https://i.imgur.com/mB3Kqii.png",
+      "posterThumb": "https://i.imgur.com/mB3Kqii.png",
+      "background": "https://i.imgur.com/mB3Kqii.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:events:9",
+      "type": "channel",
+      "name": "Músicas 24h 2",
+      "poster": "https://i.imgur.com/mB3Kqii.png",
+      "posterThumb": "https://i.imgur.com/mB3Kqii.png",
+      "background": "https://i.imgur.com/mB3Kqii.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:events:4",
+      "type": "channel",
+      "name": "PlutoTV Filmes",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:events:5",
+      "type": "channel",
+      "name": "PlutoTV Séries",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:events:2",
+      "type": "channel",
+      "name": "SBT+",
+      "poster": "https://i.imgur.com/lHJgBwD.png",
+      "posterThumb": "https://i.imgur.com/lHJgBwD.png",
+      "background": "https://i.imgur.com/lHJgBwD.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "maxnet:abertos:15",
+    "type": "channel",
+    "name": "TV Cultura",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "abertos"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:abertos:15:src-0",
+        "title": "Opção 01(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:15:src-1",
+        "title": "Opção 02(CDN)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "maxnet:filmseseries:8",
+    "type": "channel",
+    "name": "TNT",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_tnt0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_tnt0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_tnt0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "filmseseries"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:filmseseries:8:src-0",
+        "title": "Opção 01(CDN)"
+      },
+      {
+        "id": "maxnet:filmseseries:8:src-1",
+        "title": "Opção 02(CDN)"
+      }
+    ]
+  }
+}

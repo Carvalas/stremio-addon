@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "maxnet:sports:119",
+    "type": "channel",
+    "name": "Apple TV",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_appletv0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_appletv0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_appletv0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "sports"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:sports:119:src-0",
+        "title": "Apple TV 1"
+      },
+      {
+        "id": "maxnet:sports:119:src-1",
+        "title": "Apple TV 2"
+      }
+    ]
+  }
+}

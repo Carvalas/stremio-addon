@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Globo SP(CDN)",
+      "title": "Globo SP(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/289881.m3u8"
+    }
+  ]
+}

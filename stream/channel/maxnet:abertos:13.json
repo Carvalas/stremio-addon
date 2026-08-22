@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "Opção 01(CDN)",
+      "title": "Opção 01(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/80170.m3u8"
+    },
+    {
+      "name": "Opção 02",
+      "title": "Opção 02",
+      "url": "https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1215849527.m3u8"
+    }
+  ]
+}

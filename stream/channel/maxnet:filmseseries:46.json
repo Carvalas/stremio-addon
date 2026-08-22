@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Cine Sky 01",
+      "title": "Cine Sky 01",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/18253.m3u8"
+    },
+    {
+      "name": "Cine Sky 02",
+      "title": "Cine Sky 02",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/18254.m3u8"
+    },
+    {
+      "name": "Cine Sky 03",
+      "title": "Cine Sky 03",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/18255.m3u8"
+    },
+    {
+      "name": "Cine Sky 04",
+      "title": "Cine Sky 04",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/18256.m3u8"
+    },
+    {
+      "name": "Cine Sky 05",
+      "title": "Cine Sky 05",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/18257.m3u8"
+    },
+    {
+      "name": "Cine Sky 06",
+      "title": "Cine Sky 06",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/18258.m3u8"
+    },
+    {
+      "name": "Cine Sky 07",
+      "title": "Cine Sky 07",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/18259.m3u8"
+    },
+    {
+      "name": "Cine Sky 08",
+      "title": "Cine Sky 08",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/18260.m3u8"
+    },
+    {
+      "name": "Cine Sky 09",
+      "title": "Cine Sky 09",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/18261.m3u8"
+    },
+    {
+      "name": "Cine Sky 10",
+      "title": "Cine Sky 10",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560375.m3u8"
+    },
+    {
+      "name": "Cine Sky 11",
+      "title": "Cine Sky 11",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560376.m3u8"
+    },
+    {
+      "name": "Cine Sky 12",
+      "title": "Cine Sky 12",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560377.m3u8"
+    },
+    {
+      "name": "Cine Sky 13",
+      "title": "Cine Sky 13",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560378.m3u8"
+    },
+    {
+      "name": "Cine Sky 14",
+      "title": "Cine Sky 14",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560379.m3u8"
+    },
+    {
+      "name": "Cine Sky 15",
+      "title": "Cine Sky 15",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560380.m3u8"
+    },
+    {
+      "name": "Cine Sky 16",
+      "title": "Cine Sky 16",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560381.m3u8"
+    },
+    {
+      "name": "Cine Sky 17",
+      "title": "Cine Sky 17",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560382.m3u8"
+    },
+    {
+      "name": "Cine Sky 18",
+      "title": "Cine Sky 18",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560383.m3u8"
+    },
+    {
+      "name": "Cine Sky 19",
+      "title": "Cine Sky 19",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560384.m3u8"
+    },
+    {
+      "name": "Cine Sky 20",
+      "title": "Cine Sky 20",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/560385.m3u8"
+    }
+  ]
+}
