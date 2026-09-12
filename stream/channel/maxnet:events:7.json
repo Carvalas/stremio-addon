@@ -1,0 +1,79 @@
+{
+  "streams": [
+    {
+      "name": "Sertanejo",
+      "title": "Sertanejo",
+      "url": "https://stream.hunter.fm/sertanejo/64.m3u8"
+    },
+    {
+      "name": "Pop",
+      "title": "Pop",
+      "url": "https://stream.hunter.fm/pop/64.m3u8"
+    },
+    {
+      "name": "MPB",
+      "title": "MPB",
+      "url": "https://stream.hunter.fm/mpb/64.m3u8"
+    },
+    {
+      "name": "Pagode ",
+      "title": "Pagode ",
+      "url": "https://stream.hunter.fm/pagode/64.m3u8"
+    },
+    {
+      "name": "Rock",
+      "title": "Rock",
+      "url": "https://stream.hunter.fm/rock/64.m3u8"
+    },
+    {
+      "name": "Hits Brasil",
+      "title": "Hits Brasil",
+      "url": "https://stream.hunter.fm/hitsbrasil/64.m3u8"
+    },
+    {
+      "name": "K-Pop",
+      "title": "K-Pop",
+      "url": "https://stream.hunter.fm/kpop/64.m3u8"
+    },
+    {
+      "name": "Moda Sertaneja",
+      "title": "Moda Sertaneja",
+      "url": "https://stream.hunter.fm/modasertaneja/64.m3u8"
+    },
+    {
+      "name": "Gospel",
+      "title": "Gospel",
+      "url": "https://stream.hunter.fm/gospel/64.m3u8"
+    },
+    {
+      "name": "Pop2K",
+      "title": "Pop2K",
+      "url": "https://stream.hunter.fm/pop2k/64.m3u8"
+    },
+    {
+      "name": "80s Retrô",
+      "title": "80s Retrô",
+      "url": "https://stream.hunter.fm/80s/64.m3u8"
+    },
+    {
+      "name": "Pisadinha",
+      "title": "Pisadinha",
+      "url": "https://stream.hunter.fm/pisadinha/64.m3u8"
+    },
+    {
+      "name": "Lo-fi",
+      "title": "Lo-fi",
+      "url": "https://stream.hunter.fm/lofi/64.m3u8"
+    },
+    {
+      "name": "Tropical",
+      "title": "Tropical",
+      "url": "https://stream.hunter.fm/tropical/64.m3u8"
+    },
+    {
+      "name": "Seleção Master",
+      "title": "Seleção Master",
+      "url": "https://stream.hunter.fm/master/64.m3u8"
+    }
+  ]
+}

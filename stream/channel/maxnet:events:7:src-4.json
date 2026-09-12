@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Rock",
+      "title": "Rock",
+      "url": "https://stream.hunter.fm/rock/64.m3u8"
+    }
+  ]
+}

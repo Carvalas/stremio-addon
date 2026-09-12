@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Record PA",
+      "title": "Record PA",
+      "url": "http://dns.explouddev.com:80/live/360121095/Q360z4362q/244129.m3u8"
+    }
+  ]
+}

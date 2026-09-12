@@ -1,0 +1,36 @@
+{
+  "metas": [
+    {
+      "id": "maxnet:news:2",
+      "type": "channel",
+      "name": "Band News",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_bandnews0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_bandnews0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_bandnews0001.png"
+    },
+    {
+      "id": "maxnet:news:6",
+      "type": "channel",
+      "name": "CNN Brasil",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_cnnbrasil0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_cnnbrasil0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_cnnbrasil0001.png"
+    },
+    {
+      "id": "maxnet:news:1",
+      "type": "channel",
+      "name": "Globo News",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_globonews0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_globonews0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_globonews0001.png"
+    },
+    {
+      "id": "maxnet:news:4",
+      "type": "channel",
+      "name": "Record News",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_recordnews0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_recordnews0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_recordnews0001.png"
+    }
+  ]
+}

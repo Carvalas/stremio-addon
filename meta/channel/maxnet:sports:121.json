@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": "maxnet:sports:121",
+    "type": "channel",
+    "name": "Eleven Sports",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "sports"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:sports:121:src-0",
+        "title": "Eleven Sports 1"
+      },
+      {
+        "id": "maxnet:sports:121:src-1",
+        "title": "Eleven Sports 2"
+      },
+      {
+        "id": "maxnet:sports:121:src-2",
+        "title": "Eleven Sports 3"
+      },
+      {
+        "id": "maxnet:sports:121:src-3",
+        "title": "Eleven Sports 4"
+      },
+      {
+        "id": "maxnet:sports:121:src-4",
+        "title": "Eleven Sports 5"
+      },
+      {
+        "id": "maxnet:sports:121:src-5",
+        "title": "Eleven Sports 6"
+      }
+    ]
+  }
+}

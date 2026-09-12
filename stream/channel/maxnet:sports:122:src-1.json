@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "SporTV 5 PT",
+      "title": "SporTV 5 PT",
+      "url": "http://dns.explouddev.com:80/live/360121095/Q360z4362q/112004.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:variedades:8",
+    "type": "channel",
+    "name": "Modo Viagem",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_maisglobosat0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_maisglobosat0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_maisglobosat0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "variedades"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:variedades:8:src-0",
+        "title": "Opção 01(CDN)"
+      }
+    ]
+  }
+}
