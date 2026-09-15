@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "id": "maxnet:events:8",
+    "type": "channel",
+    "name": "Músicas 24h 1",
+    "poster": "https://i.imgur.com/mB3Kqii.png",
+    "background": "https://i.imgur.com/mB3Kqii.png",
+    "logo": "https://i.imgur.com/mB3Kqii.png",
+    "description": "Ao Vivo - 24 Horas",
+    "genres": [
+      "events"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:events:8:src-0",
+        "title": "Alexandre Pires [Live do Nego Véio]"
+      },
+      {
+        "id": "maxnet:events:8:src-1",
+        "title": "B&M + Wesley Safadao [Live 19-09-2020]"
+      },
+      {
+        "id": "maxnet:events:8:src-2",
+        "title": "Bruno e Marrone [Live 16-05-2020]"
+      },
+      {
+        "id": "maxnet:events:8:src-3",
+        "title": "Bruno e Marrone [Live 3 sem propagandas]"
+      },
+      {
+        "id": "maxnet:events:8:src-4",
+        "title": "Bruno e Marrone [Live 4 sem propagandas]"
+      },
+      {
+        "id": "maxnet:events:8:src-5",
+        "title": "Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Rai Saia Rodada]"
+      },
+      {
+        "id": "maxnet:events:8:src-6",
+        "title": "Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]"
+      },
+      {
+        "id": "maxnet:events:8:src-7",
+        "title": "Eduardo Costa [Aqui em Uberlândia]"
+      },
+      {
+        "id": "maxnet:events:8:src-8",
+        "title": "Eduardo Costa [Especial Dia dos Namorados]"
+      },
+      {
+        "id": "maxnet:events:8:src-9",
+        "title": "Gusttavo Lima [Buteco em BH]"
+      },
+      {
+        "id": "maxnet:events:8:src-10",
+        "title": "Gusttavo Lima [Buteco Em Casa 1]"
+      },
+      {
+        "id": "maxnet:events:8:src-11",
+        "title": "Gusttavo Lima [Embaixador no Agronegócio]"
+      },
+      {
+        "id": "maxnet:events:8:src-12",
+        "title": "Gusttavo Lima [Especial São João]"
+      },
+      {
+        "id": "maxnet:events:8:src-13",
+        "title": "Gusttavo Lima [Festa do Peão Barretos]"
+      },
+      {
+        "id": "maxnet:events:8:src-14",
+        "title": "Gusttavo Lima [YouTube Music]"
+      },
+      {
+        "id": "maxnet:events:8:src-15",
+        "title": "Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]"
+      },
+      {
+        "id": "maxnet:events:8:src-16",
+        "title": "Henrique e Juliano [Live Liberdade Provisória]"
+      },
+      {
+        "id": "maxnet:events:8:src-17",
+        "title": "Jorge e Mateus [Sunset]"
+      },
+      {
+        "id": "maxnet:events:8:src-18",
+        "title": "Leonardo e Eduardo Costa [Cabaré]"
+      },
+      {
+        "id": "maxnet:events:8:src-19",
+        "title": "Leonardo e Luiza e Maurílio [Aqui em Uberlândia]"
+      },
+      {
+        "id": "maxnet:events:8:src-20",
+        "title": "Leonardo e Zé Felipe [Pai e Filho]"
+      },
+      {
+        "id": "maxnet:events:8:src-21",
+        "title": "Leonardo [Canto, Bebo e Choro]"
+      },
+      {
+        "id": "maxnet:events:8:src-22",
+        "title": "Maiara e Maraisa [Aqui em Casa 1]"
+      },
+      {
+        "id": "maxnet:events:8:src-23",
+        "title": "Maiara e Maraisa [Aqui em Casa 2]"
+      },
+      {
+        "id": "maxnet:events:8:src-24",
+        "title": "Maiara e Maraisa [Aqui na Fazenda]"
+      }
+    ]
+  }
+}

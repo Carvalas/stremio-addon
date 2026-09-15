@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Dazn 1(CDN)",
+      "title": "Dazn 1(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/229982.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "metas": [
+    {
+      "id": "maxnet:docs:1",
+      "type": "channel",
+      "name": "Animal Planet",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_animplanet0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_animplanet0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_animplanet0001.png"
+    },
+    {
+      "id": "maxnet:docs:19",
+      "type": "channel",
+      "name": "Arte1",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_arteum0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_arteum0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_arteum0001.png"
+    },
+    {
+      "id": "maxnet:docs:4",
+      "type": "channel",
+      "name": "Discovery Channel",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_discoverychannel0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_discoverychannel0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_discoverychannel0001.png"
+    },
+    {
+      "id": "maxnet:docs:14",
+      "type": "channel",
+      "name": "Discovery Home & Health",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_discoveryh&h0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_discoveryh&h0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_discoveryh&h0001.png"
+    },
+    {
+      "id": "maxnet:docs:11",
+      "type": "channel",
+      "name": "Discovery Science",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_science0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_science0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_science0001.png"
+    },
+    {
+      "id": "maxnet:docs:13",
+      "type": "channel",
+      "name": "Discovery Theater",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_discoverytheater0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_discoverytheater0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_discoverytheater0001.png"
+    },
+    {
+      "id": "maxnet:docs:10",
+      "type": "channel",
+      "name": "Discovery Turbo",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_discoveryturbo0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_discoveryturbo0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_discoveryturbo0001.png"
+    },
+    {
+      "id": "maxnet:docs:8",
+      "type": "channel",
+      "name": "Discovery World",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_discoveryworld0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_discoveryworld0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_discoveryworld0001.png"
+    },
+    {
+      "id": "maxnet:docs:7",
+      "type": "channel",
+      "name": "E! Entertainment",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_entertainment0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_entertainment0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_entertainment0001.png"
+    },
+    {
+      "id": "maxnet:docs:15",
+      "type": "channel",
+      "name": "HGTV",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_hgtv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_hgtv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_hgtv0001.png"
+    },
+    {
+      "id": "maxnet:docs:2",
+      "type": "channel",
+      "name": "History",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_history0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_history0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_history0001.png"
+    },
+    {
+      "id": "maxnet:docs:3",
+      "type": "channel",
+      "name": "History 2",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_historytwo0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_historytwo0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_historytwo0001.png"
+    },
+    {
+      "id": "maxnet:docs:9",
+      "type": "channel",
+      "name": "Investigação Discovery",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_idchannel0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_idchannel0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_idchannel0001.png"
+    }
+  ]
+}

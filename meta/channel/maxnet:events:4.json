@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "maxnet:events:4",
+    "type": "channel",
+    "name": "PlutoTV Filmes",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+    "description": "Ao Vivo - 24 Horas",
+    "genres": [
+      "events"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:events:4:src-3",
+        "title": "Pluto Filmes Suspense"
+      },
+      {
+        "id": "maxnet:events:4:src-9",
+        "title": "Pluto Cine Clássicos"
+      },
+      {
+        "id": "maxnet:events:4:src-13",
+        "title": "Pluto Filmes Nacionais"
+      }
+    ]
+  }
+}

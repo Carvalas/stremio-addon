@@ -1,0 +1,1286 @@
+[
+  {
+    "channelId": "abertos:7",
+    "name": "Globo SP(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/289881.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:7",
+    "name": "Globo RJ(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2376.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:7",
+    "name": "Globo Nordeste(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2428.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:7",
+    "name": "Globo TV Morena(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/274984.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:7",
+    "name": "Globo Brasília(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2452.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:7",
+    "name": "Globo Inter TV Cabugi(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2437.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:7",
+    "name": "Globo Verde Mares(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2434.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:8",
+    "name": "SBT SP (CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244161.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:8",
+    "name": "SBT BA(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/377246.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:8",
+    "name": "SBT SC (CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244178.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:8",
+    "name": "SBT RS (CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244181.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:8",
+    "name": "SBT MG (CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244184.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:10",
+    "name": "Band SP(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/255465.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:10",
+    "name": "Band MG(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/255482.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:10",
+    "name": "Band BA(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/286193.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:10",
+    "name": "Band Brasília(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/255472.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:11",
+    "name": "Record SP",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244071.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:11",
+    "name": "Record BA",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/558027.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:11",
+    "name": "Record RJ",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/528661.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:11",
+    "name": "Record PA",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244129.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:13",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/80170.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "abertos:14",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/159.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:1",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/118881.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:2",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/554.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:3",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/559.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:4",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/309458.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:4",
+    "name": "Opção 02(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/309458.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:5",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/215.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:6",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/220.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:7",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/225.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:7",
+    "name": "Opção 03(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/222.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:8",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/563030.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:9",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/563035.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:10",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/235.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:11",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/494.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:13",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/504.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:14",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/509.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:15",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/514.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:16",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/519.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:18",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/380749.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:19",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/240.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:23",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/250112.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:24",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/250563.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:25",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/368440.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:103",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/121598.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:104",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/121600.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:105",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/121604.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:109",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/250571.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:110",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/368448.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:111",
+    "name": "Evento 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232230.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:111",
+    "name": "Evento 02(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232234.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:111",
+    "name": "Evento 03(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232238.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:111",
+    "name": "Evento 04(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232242.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:112",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/537640.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:112",
+    "name": "Opção 02",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/537642.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:112",
+    "name": "Opção 03",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/537644.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:114",
+    "name": "SportyNet 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/301421.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:115",
+    "name": "Canal Goat 2",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232222.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:119",
+    "name": "Apple TV 1",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/274650.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:119",
+    "name": "Apple TV 2",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/274649.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:120",
+    "name": "Dazn 2(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/229984.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:121",
+    "name": "Eleven Sports 2",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/273451.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:121",
+    "name": "Eleven Sports 3",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/273452.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:121",
+    "name": "Eleven Sports 5",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/273453.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:121",
+    "name": "Eleven Sports 6",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/273454.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:122",
+    "name": "SporTV 5 PT",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/112004.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "sports:124",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/580835.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:1",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/352.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:1",
+    "name": "Opção 02(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/21230.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:2",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/110683.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:2",
+    "name": "Opção 02(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/110684.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:4",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/377228.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:5",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/364.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:6",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/377232.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:13",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/376344.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:14",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/311639.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "infantil:18",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/112054.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "docs:2",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2617.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "docs:4",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2577.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "docs:7",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2472.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "docs:7",
+    "name": "Opção 02",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2472.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "docs:9",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2632.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "variedades:14",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2476.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "variedades:15",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2520.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "variedades:16",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2532.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "news:1",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/479.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "news:2",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/469.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "news:4",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/488.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "news:6",
+    "name": "Opção 01(CDN)",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/474.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:2",
+    "name": "SBT+ Novelas",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/390578.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Alexandre Pires [Live do Nego Véio]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271429.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "B&M + Wesley Safadao [Live 19-09-2020]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271430.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Bruno e Marrone [Live 16-05-2020]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271431.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Bruno e Marrone [Live 3 sem propagandas]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271432.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Bruno e Marrone [Live 4 sem propagandas]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271433.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Rai Saia Rodada]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271434.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271435.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Eduardo Costa [Aqui em Uberlândia]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271436.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Eduardo Costa [Especial Dia dos Namorados]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271437.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Gusttavo Lima [Embaixador no Agronegócio]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271440.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Gusttavo Lima [Especial São João]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271441.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Gusttavo Lima [YouTube Music]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271443.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Jorge e Mateus [Sunset]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271448.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Leonardo e Eduardo Costa [Cabaré]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271451.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Leonardo e Luiza e Maurílio [Aqui em Uberlândia]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271452.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Leonardo e Zé Felipe [Pai e Filho]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271453.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Leonardo [Canto, Bebo e Choro]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271454.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Maiara e Maraisa [Aqui em Casa 1]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271455.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Maiara e Maraisa [Aqui em Casa 2]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271456.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:8",
+    "name": "Maiara e Maraisa [Aqui na Fazenda]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271457.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Maiara e Maraisa [Drive-In Na Terra]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271458.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Maiara e Maraisa [Fun Live]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271459.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Marilia Mendonça [Lado B]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271461.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Marilia Mendonça [Live Local]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271462.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Marilia Mendonça [Todos os Cantos]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271463.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Marilia Mendonça [Workshow]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271464.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Raça Negra e Alexandre Pires [Live Gigantes do Samba]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271465.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Raça Negra e Amigos em Casa [Live 21-04-2020]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271466.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Simone e Simaria [Live das Coleguinhas 1]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271467.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Simone e Simaria [Live das Coleguinhas 2 Libras]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271468.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Simone e Simaria [Live das Coleguinhas 2]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271469.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Simone e Simaria [Pocket Show]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271470.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Simone e Simaria [Yoki, Live Junina]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271471.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Só Pra Contrariar [Especial 30 Anos]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271472.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Só Pra Contrariar [Session 2]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271473.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271474.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Trio Parada Dura [A Última Live - Especial Parrerito]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271475.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "VillaMix em Casa [Só Modão]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271476.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Wesley Safadao e Raca Negra [Skol Sunset]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271477.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Xand Aviao e os Barões da Pisadinha [Live Oficial]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271478.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Zé Neto e Cristiano [Live Barretão]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271479.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Jorge e Mateus [Na Praia Hotel]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271448.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "events:9",
+    "name": "Jorge e Mateus [Pelo Amor de Deus]",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271449.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:541",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/388486.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:542",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232221.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:543",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232224.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:544",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232227.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:545",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272663.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:546",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272662.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:550",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272667.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:551",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272668.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:552",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272669.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:553",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272670.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:554",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272671.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:558",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272675.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:559",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272676.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:560",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272677.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:561",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272678.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:562",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272679.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:563",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272680.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:565",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272682.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:566",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272657.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:567",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272658.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:569",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272660.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:570",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272661.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:571",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272683.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:572",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272684.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:573",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272685.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:574",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272686.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:575",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272687.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:576",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272688.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:577",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272689.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:578",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272690.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:579",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272691.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:580",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272692.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:581",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272693.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:582",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272694.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:583",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272695.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:584",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272696.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:585",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272697.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:586",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272698.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:587",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272699.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:588",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271592.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:590",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271594.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:591",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271595.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:592",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271596.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:593",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271597.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:594",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271598.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:595",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271599.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:596",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271600.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:597",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271601.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:598",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271602.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:599",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271603.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:600",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271604.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:601",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271605.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:602",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271606.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:603",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271607.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:604",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/271608.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:606",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272705.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:609",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272708.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:610",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272709.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:611",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272710.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:612",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272711.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:613",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272712.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:614",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272713.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:615",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272714.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:616",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272715.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:617",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272716.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:620",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272719.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:621",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272720.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:623",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272722.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:624",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272723.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:625",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272724.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:627",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272726.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:628",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272727.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:629",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272728.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:630",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272729.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:631",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272730.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:632",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272731.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:633",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272732.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:634",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272733.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:635",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272734.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:636",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272735.m3u8",
+    "host": "dns.explouddev.com"
+  },
+  {
+    "channelId": "24horas:638",
+    "name": "Opção 01",
+    "link": "http://dns.explouddev.com:80/live/632270679/F823j7133R/272737.m3u8",
+    "host": "dns.explouddev.com"
+  }
+]

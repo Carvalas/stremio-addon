@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "name": "Evento 01(CDN)",
+      "title": "Evento 01(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232230.m3u8"
+    },
+    {
+      "name": "Evento 02(CDN)",
+      "title": "Evento 02(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232234.m3u8"
+    },
+    {
+      "name": "Evento 03(CDN)",
+      "title": "Evento 03(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232238.m3u8"
+    },
+    {
+      "name": "Evento 04(CDN)",
+      "title": "Evento 04(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/232242.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "maxnet:sports:1",
+    "type": "channel",
+    "name": "SporTV",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_sportv0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_sportv0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_sportv0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "sports"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:sports:1:src-0",
+        "title": "Opção 01(CDN)"
+      },
+      {
+        "id": "maxnet:sports:1:src-1",
+        "title": "Opção 02(CDN)"
+      }
+    ]
+  }
+}

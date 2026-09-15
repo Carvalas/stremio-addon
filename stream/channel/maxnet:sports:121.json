@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "name": "Eleven Sports 1",
+      "title": "Eleven Sports 1",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/273450.m3u8"
+    },
+    {
+      "name": "Eleven Sports 2",
+      "title": "Eleven Sports 2",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/273451.m3u8"
+    },
+    {
+      "name": "Eleven Sports 3",
+      "title": "Eleven Sports 3",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/273452.m3u8"
+    },
+    {
+      "name": "Eleven Sports 4",
+      "title": "Eleven Sports 4",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/565030.m3u8"
+    },
+    {
+      "name": "Eleven Sports 5",
+      "title": "Eleven Sports 5",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/273453.m3u8"
+    },
+    {
+      "name": "Eleven Sports 6",
+      "title": "Eleven Sports 6",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/273454.m3u8"
+    }
+  ]
+}

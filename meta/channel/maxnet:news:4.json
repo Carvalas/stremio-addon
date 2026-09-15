@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "maxnet:news:4",
+    "type": "channel",
+    "name": "Record News",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_recordnews0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_recordnews0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_recordnews0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "news"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:news:4:src-0",
+        "title": "Opção 01(CDN)"
+      },
+      {
+        "id": "maxnet:news:4:src-1",
+        "title": "Opção 02"
+      }
+    ]
+  }
+}

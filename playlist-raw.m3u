@@ -1,0 +1,639 @@
+#EXTM3U url-tvg="https://explouddev.com/api/app/epg.xml"
+#EXTINF:-1 tvg-id="tv-globo" tvg-name="Globo" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png",Globo
+http://dns.explouddev.com:80/live/632270679/F823j7133R/289881.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png",SBT
+http://dns.explouddev.com:80/live/632270679/F823j7133R/244161.m3u8
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="Band" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png",Band
+http://dns.explouddev.com:80/live/632270679/F823j7133R/255465.m3u8
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png",Record
+http://dns.explouddev.com:80/live/632270679/F823j7133R/244071.m3u8
+#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV!" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redetv0001.png",RedeTV!
+http://dns.explouddev.com:80/live/632270679/F823j7133R/80170.m3u8
+#EXTINF:-1 tvg-id="futura" tvg-name="Futura" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_futura0001.png",Futura
+http://dns.explouddev.com:80/live/632270679/F823j7133R/159.m3u8
+#EXTINF:-1 tvg-id="CULTURA HD" tvg-name="TV Cultura" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png",TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w884249386.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="maxnet:abertos:17" tvg-name="TV Acrítica" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png",TV Acrítica
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida HD" tvg-name="TV Aparecida" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvaparecida0001.png",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Brasil HD" tvg-name="TV Brasil" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvbrasil0001.png",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar" group-title="Abertos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvevangelizar0001.png",TV Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-id="sportv" tvg-name="SporTV" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportv0001.png",SporTV
+http://dns.explouddev.com:80/live/632270679/F823j7133R/118881.m3u8
+#EXTINF:-1 tvg-id="sportv-2" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvtwo0001.png",SporTV 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/554.m3u8
+#EXTINF:-1 tvg-id="sportv-3" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvthree0001.png",SporTV 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/559.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png",ESPN
+http://dns.explouddev.com:80/live/632270679/F823j7133R/309458.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espntwo0001.png",ESPN 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/215.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png",ESPN 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/220.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png",ESPN 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/225.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png",ESPN 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/563030.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_espn0001.png",ESPN 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/563035.m3u8
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="Band Sports" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bandsports0001.png",Band Sports
+http://dns.explouddev.com:80/live/632270679/F823j7133R/235.m3u8
+#EXTINF:-1 tvg-id="premiere" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",Premiere
+http://dns.explouddev.com:80/live/632270679/F823j7133R/494.m3u8
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",Premiere 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/499.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",Premiere 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/504.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",Premiere 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/509.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",Premiere 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/514.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",Premiere 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/519.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",Premiere 7
+http://dns.explouddev.com:80/live/632270679/F823j7133R/524.m3u8
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",Premiere 8
+http://dns.explouddev.com:80/live/632270679/F823j7133R/380749.m3u8
+#EXTINF:-1 tvg-id="combate" tvg-name="Combate" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_combate0001.png",Combate
+http://dns.explouddev.com:80/live/632270679/F823j7133R/240.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:23" tvg-name="UFC Fight Pass" group-title="Esportes" tvg-logo="https://i.imgur.com/paisBTw.png",UFC Fight Pass
+http://dns.explouddev.com:80/live/632270679/F823j7133R/250112.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:24" tvg-name="Paramount+" group-title="Esportes" tvg-logo="https://i.imgur.com/YlKpabZ.png",Paramount+
+http://dns.explouddev.com:80/live/632270679/F823j7133R/250563.m3u8
+#EXTINF:-1 tvg-id="Paramount+ 2" tvg-name="Paramount+ 2" group-title="Esportes" tvg-logo="https://i.imgur.com/YlKpabZ.png",Paramount+ 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/368440.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:103" tvg-name="HBO Max" group-title="Esportes" tvg-logo="https://i.imgur.com/GZSYVVf.png",HBO Max
+http://dns.explouddev.com:80/live/632270679/F823j7133R/121598.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:104" tvg-name="HBO Max 2" group-title="Esportes" tvg-logo="https://i.imgur.com/GZSYVVf.png",HBO Max 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/121600.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:105" tvg-name="HBO Max 3" group-title="Esportes" tvg-logo="https://i.imgur.com/GZSYVVf.png",HBO Max 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/121604.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:106" tvg-name="HBO Max 4" group-title="Esportes" tvg-logo="https://i.imgur.com/GZSYVVf.png",HBO Max 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/121610.ts
+#EXTINF:-1 tvg-id="Paramount+ 3" tvg-name="Paramount+ 3" group-title="Esportes" tvg-logo="https://i.imgur.com/YlKpabZ.png",Paramount+ 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/250571.m3u8
+#EXTINF:-1 tvg-id="Paramount+ 4" tvg-name="Paramount+ 4" group-title="Esportes" tvg-logo="https://i.imgur.com/YlKpabZ.png",Paramount+ 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/368448.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:111" tvg-name="Disney+" group-title="Esportes" tvg-logo="https://i.imgur.com/IVkNsIJ.png",Disney+
+http://dns.explouddev.com:80/live/632270679/F823j7133R/232230.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:112" tvg-name="Prime Vídeo" group-title="Esportes" tvg-logo="https://i.imgur.com/U5OE999.png",Prime Vídeo
+http://dns.explouddev.com:80/live/632270679/F823j7133R/537640.m3u8
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL HD" tvg-name="SportyNet" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png",SportyNet
+http://dns.explouddev.com:80/live/632270679/F823j7133R/301421.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:115" tvg-name="Canal Goat" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_canalgoat0002.png",Canal Goat
+http://dns.explouddev.com:80/live/632270679/F823j7133R/232222.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:119" tvg-name="Apple TV" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_appletv0001.png",Apple TV
+http://dns.explouddev.com:80/live/632270679/F823j7133R/274650.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:120" tvg-name="Dazn" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_dazn0001.png",Dazn
+http://dns.explouddev.com:80/live/632270679/F823j7133R/229982.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:121" tvg-name="Eleven Sports" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png",Eleven Sports
+http://dns.explouddev.com:80/live/632270679/F823j7133R/273450.m3u8
+#EXTINF:-1 tvg-id="maxnet:sports:122" tvg-name="SporTV PT" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png",SporTV PT
+http://dns.explouddev.com:80/live/632270679/F823j7133R/112002.m3u8
+#EXTINF:-1 tvg-id="Xsports" tvg-name="XSports" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_xsports0001.png",XSports
+http://dns.explouddev.com:80/live/632270679/F823j7133R/580835.m3u8
+#EXTINF:-1 tvg-id="GE" tvg-name="GE TV" group-title="Esportes" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_getv0001.png",GE TV
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-id="Cartoon HD" tvg-name="Cartoon Network" group-title="Infantil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png",Cartoon Network
+http://dns.explouddev.com:80/live/632270679/F823j7133R/352.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" group-title="Infantil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cartoonito0001.png",Cartoonito
+http://dns.explouddev.com:80/live/632270679/F823j7133R/110683.m3u8
+#EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" group-title="Infantil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gloob0001.png",Gloob
+http://dns.explouddev.com:80/live/632270679/F823j7133R/377228.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids" group-title="Infantil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_discoverykids0001.png",Discovery Kids
+http://dns.explouddev.com:80/live/632270679/F823j7133R/364.m3u8
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" group-title="Infantil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gloobinho0001.png",Gloobinho
+http://dns.explouddev.com:80/live/632270679/F823j7133R/377232.m3u8
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" group-title="Infantil" tvg-logo="https://i.imgur.com/4TEXo8R.png",Adult Swim
+http://dns.explouddev.com:80/live/632270679/F823j7133R/376344.m3u8
+#EXTINF:-1 tvg-id="dumdum" tvg-name="DumDum" group-title="Infantil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_zoomoo0001.png",DumDum
+http://dns.explouddev.com:80/live/632270679/F823j7133R/311639.m3u8
+#EXTINF:-1 tvg-id="Dog TV" tvg-name="Dog TV" group-title="Infantil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_dogtv0001.png",Dog TV
+http://dns.explouddev.com:80/live/632270679/F823j7133R/112054.m3u8
+#EXTINF:-1 tvg-id="maxnet:infantil:20" tvg-name="Loading" group-title="Infantil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_loading0001.png",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_animplanet0001.png",Animal Planet
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2602.m3u8
+#EXTINF:-1 tvg-id="History HD" tvg-name="History" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_history0001.png",History
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2617.m3u8
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_historytwo0001.png",History 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2622.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_discoverychannel0001.png",Discovery Channel
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2577.m3u8
+#EXTINF:-1 tvg-id="E! HD" tvg-name="E! Entertainment" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_entertainment0001.png",E! Entertainment
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2472.m3u8
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_discoveryworld0001.png",Discovery World
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2597.m3u8
+#EXTINF:-1 tvg-id="ID" tvg-name="Investigação Discovery" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_idchannel0001.png",Investigação Discovery
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2632.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_discoveryturbo0001.png",Discovery Turbo
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2592.m3u8
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_science0001.png",Discovery Science
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2582.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_discoverytheater0001.png",Discovery Theater
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2587.m3u8
+#EXTINF:-1 tvg-id="Discovery Home&Health HD" tvg-name="Discovery Home & Health" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_discoveryh&h0001.png",Discovery Home & Health
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2572.m3u8
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hgtv0001.png",HGTV
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2627.m3u8
+#EXTINF:-1 tvg-id="maxnet:docs:19" tvg-name="Arte1" group-title="Documentários" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_arteum0001.png",Arte1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2607.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png",Cinemax
+http://dns.explouddev.com:80/live/632270679/F823j7133R/682.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbo0001.png",HBO
+http://dns.explouddev.com:80/live/632270679/F823j7133R/18751.m3u8
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_warner0001.png",Warner
+http://dns.explouddev.com:80/live/632270679/F823j7133R/749.m3u8
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony Channel" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sony0001.png",Sony Channel
+http://dns.explouddev.com:80/live/632270679/F823j7133R/702.m3u8
+#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_megapix0001.png",Megapix
+http://dns.explouddev.com:80/live/632270679/F823j7133R/692.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tnt0001.png",TNT
+http://dns.explouddev.com:80/live/632270679/F823j7133R/733.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbotwo0001.png",HBO 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/18755.m3u8
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hboplus0001.png",HBO Plus
+http://dns.explouddev.com:80/live/632270679/F823j7133R/18764.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbofamily0001.png",HBO Family
+http://dns.explouddev.com:80/live/632270679/F823j7133R/18759.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbosignature0001.png",HBO Signature
+http://dns.explouddev.com:80/live/632270679/F823j7133R/18767.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO Xtreme" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbomundi0001.png",HBO Xtreme
+http://dns.explouddev.com:80/live/632270679/F823j7133R/18775.m3u8
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO Pop" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hbopop0001.png",HBO Pop
+http://dns.explouddev.com:80/live/632270679/F823j7133R/18779.m3u8
+#EXTINF:-1 tvg-id="telecine-premium" tvg-name="Telecine Premium" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinepremium0001.png",Telecine Premium
+http://dns.explouddev.com:80/live/632270679/F823j7133R/635.m3u8
+#EXTINF:-1 tvg-id="telecine-action" tvg-name="Telecine Action" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecineaction0001.png",Telecine Action
+http://dns.explouddev.com:80/live/632270679/F823j7133R/615.m3u8
+#EXTINF:-1 tvg-id="telecine-touch" tvg-name="Telecine Touch" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinetouch0001.png",Telecine Touch
+http://dns.explouddev.com:80/live/632270679/F823j7133R/589.m3u8
+#EXTINF:-1 tvg-id="telecine-fun" tvg-name="Telecine Fun" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinefun0001.png",Telecine Fun
+http://dns.explouddev.com:80/live/632270679/F823j7133R/625.m3u8
+#EXTINF:-1 tvg-id="telecine-pipoca" tvg-name="Telecine Pipoca" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinepipoca0001.png",Telecine Pipoca
+http://dns.explouddev.com:80/live/632270679/F823j7133R/630.m3u8
+#EXTINF:-1 tvg-id="telecine-cult" tvg-name="Telecine Cult" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_telecinecult0001.png",Telecine Cult
+http://dns.explouddev.com:80/live/632270679/F823j7133R/620.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_axn0001.png",AXN
+http://dns.explouddev.com:80/live/632270679/F823j7133R/676.m3u8
+#EXTINF:-1 tvg-id="A_E" tvg-name="A&E" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_a&e0001.png",A&E
+http://dns.explouddev.com:80/live/632270679/F823j7133R/666.m3u8
+#EXTINF:-1 tvg-id="studio-universal" tvg-name="Studio Universal" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_studiochannel0001.png",Studio Universal
+http://dns.explouddev.com:80/live/632270679/F823j7133R/713.m3u8
+#EXTINF:-1 tvg-id="usa" tvg-name="USA" group-title="Filmes & Séries" tvg-logo="https://i.imgur.com/sdoR43Z.png",USA
+http://dns.explouddev.com:80/live/632270679/F823j7133R/718.m3u8
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tntseries0001.png",TNT Séries
+http://dns.explouddev.com:80/live/632270679/F823j7133R/738.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tcm0001.png",TCM
+http://dns.explouddev.com:80/live/632270679/F823j7133R/740.m3u8
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_space0001.png",Space
+http://dns.explouddev.com:80/live/632270679/F823j7133R/707.m3u8
+#EXTINF:-1 tvg-id="universal" tvg-name="Universal TV" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_universaltv0001.png",Universal TV
+http://dns.explouddev.com:80/live/632270679/F823j7133R/743.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_amc0001.png",AMC
+http://dns.explouddev.com:80/live/632270679/F823j7133R/671.m3u8
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" group-title="Filmes & Séries" tvg-logo="https://i.imgur.com/bzOhQNq.png",TNT Novelas
+http://dns.explouddev.com:80/live/632270679/F823j7133R/264555.m3u8
+#EXTINF:-1 tvg-id="canal-brasil" tvg-name="Canal Brasil" group-title="Filmes & Séries" tvg-logo="https://i.imgur.com/8PuNxoS.png",Canal Brasil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/146.m3u8
+#EXTINF:-1 tvg-id="maxnet:filmseseries:46" tvg-name="Cine Sky" group-title="Filmes & Séries" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png",Cine Sky
+http://dns.explouddev.com:80/live/632270679/F823j7133R/18253.m3u8
+#EXTINF:-1 tvg-id="multishow" tvg-name="Multishow" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_multishow0001.png",Multishow
+http://dns.explouddev.com:80/live/632270679/F823j7133R/377241.m3u8
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gnt0001.png",GNT
+http://dns.explouddev.com:80/live/632270679/F823j7133R/377238.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="Prime Box Brazil" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_primeboxbrazil0001.png",Prime Box Brazil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/537632.m3u8
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_lifetime0001.png",Lifetime
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2488.m3u8
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_curta0001.png",Curta!
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2612.m3u8
+#EXTINF:-1 tvg-id="Modo Viagem" tvg-name="Modo Viagem" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_maisglobosat0001.png",Modo Viagem
+http://dns.explouddev.com:80/live/632270679/F823j7133R/89181.m3u8
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC" group-title="Variedades" tvg-logo="https://i.imgur.com/BOznDVO.png",TLC
+http://dns.explouddev.com:80/live/632270679/F823j7133R/728.m3u8
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="Bis" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bis0001.png",Bis
+http://dns.explouddev.com:80/live/632270679/F823j7133R/376504.m3u8
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_foodnetwork0001.png",Food Network
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2480.m3u8
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_fishtv0001.png",Fish TV
+http://dns.explouddev.com:80/live/632270679/F823j7133R/248.m3u8
+#EXTINF:-1 tvg-id="Travel Box Brazil HD" tvg-name="Travel Box Brazil" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_travelboxbrazil0001.png",Travel Box Brazil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/376353.m3u8
+#EXTINF:-1 tvg-id="FashionTV HD" tvg-name="Fashion TV" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_fashiontv0001.png",Fashion TV
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2476.m3u8
+#EXTINF:-1 tvg-id="maxnet:variedades:15" tvg-name="Music Box Brazil" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_musicboxbr0001.png",Music Box Brazil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2520.m3u8
+#EXTINF:-1 tvg-id="Trace Brasil" tvg-name="Trace Brasil" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tracebrasil0001.png",Trace Brasil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2532.m3u8
+#EXTINF:-1 tvg-id="maxnet:variedades:17" tvg-name="Drive Channel TV" group-title="Variedades" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_drivechannel0001.png",Drive Channel TV
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News" group-title="Notícias" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globonews0001.png",Globo News
+http://dns.explouddev.com:80/live/632270679/F823j7133R/479.m3u8
+#EXTINF:-1 tvg-id="Bandnews" tvg-name="Band News" group-title="Notícias" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bandnews0001.png",Band News
+http://dns.explouddev.com:80/live/632270679/F823j7133R/469.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" group-title="Notícias" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_recordnews0001.png",Record News
+http://dns.explouddev.com:80/live/632270679/F823j7133R/488.m3u8
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil" group-title="Notícias" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cnnbrasil0001.png",CNN Brasil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/474.m3u8
+#EXTINF:-1 tvg-id="maxnet:events:2" tvg-name="SBT+" group-title="Eventos" tvg-logo="https://i.imgur.com/lHJgBwD.png",SBT+
+http://dns.explouddev.com:80/live/632270679/F823j7133R/390581.m3u8
+#EXTINF:-1 tvg-id="maxnet:events:4" tvg-name="PlutoTV Filmes" group-title="Eventos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",PlutoTV Filmes
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=1816ea1a-0c99-11ec-ade7-0242ac110003&sid=1816ea1a-0c99-11ec-ade7-0242ac110003&userId=
+#EXTINF:-1 tvg-id="maxnet:events:5" tvg-name="PlutoTV Séries" group-title="Eventos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",PlutoTV Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId=stremio&appVersion=unknown&deviceDNT=0&deviceId=stremio&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="maxnet:events:7" tvg-name="Hunter FM" group-title="Eventos" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_hunterfm0001.png",Hunter FM
+https://stream.hunter.fm/sertanejo/64.m3u8
+#EXTINF:-1 tvg-id="maxnet:events:8" tvg-name="Músicas 24h 1" group-title="Eventos" tvg-logo="https://i.imgur.com/mB3Kqii.png",Músicas 24h 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271429.m3u8
+#EXTINF:-1 tvg-id="maxnet:events:9" tvg-name="Músicas 24h 2" group-title="Eventos" tvg-logo="https://i.imgur.com/mB3Kqii.png",Músicas 24h 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271458.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:541" tvg-name="Tokusato" group-title="24 Horas",Tokusato
+http://dns.explouddev.com:80/live/632270679/F823j7133R/388486.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:542" tvg-name="Chaves 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Chaves 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/232221.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:543" tvg-name="Chaves 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Chaves 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/232224.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:544" tvg-name="Chapolin 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Chapolin 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/232227.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:545" tvg-name="Escolinha do Professor Raimundo" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Escolinha do Professor Raimundo
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272663.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:546" tvg-name="Os Trapalhões" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Os Trapalhões
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272662.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:547" tvg-name="Eu a Patroa e as Crianças 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Eu a Patroa e as Crianças 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272664.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:548" tvg-name="Eu a Patroa e as Crianças 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Eu a Patroa e as Crianças 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272665.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:549" tvg-name="Eu a Patroa e as Crianças 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Eu a Patroa e as Crianças 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272666.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:550" tvg-name="Eu a Patroa e as Crianças 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Eu a Patroa e as Crianças 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272667.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:551" tvg-name="Eu a Patroa e as Crianças 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Eu a Patroa e as Crianças 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272668.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:552" tvg-name="Todo Mundo Odeia o Chris 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Todo Mundo Odeia o Chris 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272669.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:553" tvg-name="Todo Mundo Odeia o Chris 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Todo Mundo Odeia o Chris 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272670.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:554" tvg-name="Todo Mundo Odeia o Chris 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Todo Mundo Odeia o Chris 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272671.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:555" tvg-name="Todo Mundo Odeia o Chris 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Todo Mundo Odeia o Chris 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272672.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:556" tvg-name="Todo Mundo Odeia o Chris 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Todo Mundo Odeia o Chris 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272673.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:557" tvg-name="Todo Mundo Odeia o Chris 6" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Todo Mundo Odeia o Chris 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272674.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:558" tvg-name="Todo Mundo Odeia o Chris 7" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Todo Mundo Odeia o Chris 7
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272675.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:559" tvg-name="Todo Mundo Odeia o Chris 8" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Todo Mundo Odeia o Chris 8
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272676.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:560" tvg-name="Um Maluco no Pedaço 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Um Maluco no Pedaço 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272677.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:561" tvg-name="Um Maluco no Pedaço 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Um Maluco no Pedaço 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272678.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:562" tvg-name="Um Maluco no Pedaço 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Um Maluco no Pedaço 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272679.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:563" tvg-name="Um Maluco no Pedaço 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Um Maluco no Pedaço 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272680.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:564" tvg-name="Um Maluco no Pedaço 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Um Maluco no Pedaço 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272681.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:565" tvg-name="Um Maluco no Pedaço 6" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Um Maluco no Pedaço 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272682.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:566" tvg-name="Porta dos Fundos 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Porta dos Fundos 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272657.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:567" tvg-name="Porta dos Fundos 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Porta dos Fundos 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272658.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:568" tvg-name="A Culpa é do Cabral 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",A Culpa é do Cabral 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272659.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:569" tvg-name="A Culpa é do Cabral 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",A Culpa é do Cabral 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272660.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:570" tvg-name="A Culpa é do Cabral 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",A Culpa é do Cabral 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272661.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:571" tvg-name="Friends 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272683.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:572" tvg-name="Friends 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272684.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:573" tvg-name="Friends 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272685.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:574" tvg-name="Friends 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272686.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:575" tvg-name="Friends 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272687.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:576" tvg-name="Friends 6" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272688.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:577" tvg-name="Friends 7" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 7
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272689.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:578" tvg-name="Friends 8" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 8
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272690.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:579" tvg-name="Friends 9" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 9
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272691.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:580" tvg-name="Friends 10" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Friends 10
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272692.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:581" tvg-name="Vai que Cola 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Vai que Cola 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272693.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:582" tvg-name="Vai que Cola 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Vai que Cola 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272694.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:583" tvg-name="Vai que Cola 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Vai que Cola 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272695.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:584" tvg-name="Vai que Cola 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Vai que Cola 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272696.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:585" tvg-name="Vai que Cola 6" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Vai que Cola 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272697.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:586" tvg-name="Vai que Cola 7" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Vai que Cola 7
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272698.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:587" tvg-name="Vai que Cola 8" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Vai que Cola 8
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272699.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:588" tvg-name="DC Comics 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",DC Comics 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271592.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:589" tvg-name="DC Comics 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",DC Comics 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271593.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:590" tvg-name="Batman - Trilogia" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",Batman - Trilogia
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271594.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:591" tvg-name="Marvel 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",Marvel 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271595.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:592" tvg-name="Marvel 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",Marvel 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271596.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:593" tvg-name="Marvel 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",Marvel 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271597.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:594" tvg-name="Marvel 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",Marvel 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271598.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:595" tvg-name="X-Men 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",X-Men 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271599.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:596" tvg-name="X-Men 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",X-Men 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271600.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:597" tvg-name="Dragon Ball 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dragon Ball 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271601.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:598" tvg-name="Dragon Ball 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dragon Ball 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271602.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:599" tvg-name="Dragon Ball Heroes" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dragon Ball Heroes
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271603.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:600" tvg-name="Dragon Ball Super 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dragon Ball Super 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271604.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:601" tvg-name="Dragon Ball Super 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dragon Ball Super 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271605.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:602" tvg-name="Dragon Ball Super 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dragon Ball Super 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271606.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:603" tvg-name="Dragon Ball Z 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dragon Ball Z 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271607.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:604" tvg-name="Dragon Ball Z 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dragon Ball Z 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271608.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:605" tvg-name="Dragon Ball" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dragon Ball
+http://dns.explouddev.com:80/live/632270679/F823j7133R/271609.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:606" tvg-name="YT-Investigação Criminal" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",YT-Investigação Criminal
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272705.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:607" tvg-name="YT-Policia Militar" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",YT-Policia Militar
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272706.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:608" tvg-name="Xena" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Xena
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272707.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:609" tvg-name="Xuxa só para Baixinhos 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Xuxa só para Baixinhos 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272708.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:610" tvg-name="Xuxa só para Baixinhos 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Xuxa só para Baixinhos 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272709.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:611" tvg-name="Jiraya" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Jiraya
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272710.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:612" tvg-name="Dois Homens e Meio 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272711.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:613" tvg-name="Dois Homens e Meio 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272712.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:614" tvg-name="Dois Homens e Meio 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272713.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:615" tvg-name="Dois Homens e Meio 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272714.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:616" tvg-name="Dois Homens e Meio 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272715.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:617" tvg-name="Dois Homens e Meio 6" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272716.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:618" tvg-name="Dois Homens e Meio 7" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 7
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272717.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:619" tvg-name="Dois Homens e Meio 8" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 8
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272718.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:620" tvg-name="Dois Homens e Meio 9" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 9
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272719.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:621" tvg-name="Dois Homens e Meio 10" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 10
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272720.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:622" tvg-name="Dois Homens e Meio 11" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 11
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272721.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:623" tvg-name="Dois Homens e Meio 12" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Dois Homens e Meio 12
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272722.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:624" tvg-name="Harry Potter 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Harry Potter 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272723.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:625" tvg-name="Harry Potter 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Harry Potter 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272724.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:626" tvg-name="Jogos Mortais 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Jogos Mortais 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272725.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:627" tvg-name="Jogos Mortais 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Jogos Mortais 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272726.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:628" tvg-name="Jogos Vorazes - Quadrilogia" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Jogos Vorazes - Quadrilogia
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272727.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:629" tvg-name="John Wick - Trilogia" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",John Wick - Trilogia
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272728.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:630" tvg-name="Maze Runner - Trilogia" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Maze Runner - Trilogia
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272729.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:631" tvg-name="O Hobbit - Trilogia" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",O Hobbit - Trilogia
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272730.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:632" tvg-name="O Senhor dos Aneis - Trilogia" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",O Senhor dos Aneis - Trilogia
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272731.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:633" tvg-name="A Grande Familia 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",A Grande Familia 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272732.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:634" tvg-name="A Grande Familia 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",A Grande Familia 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272733.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:635" tvg-name="As Visões da Raven" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",As Visões da Raven
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272734.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:636" tvg-name="Auto da Comparecida" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Auto da Comparecida
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272735.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:637" tvg-name="Smallville 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272736.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:638" tvg-name="Smallville 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272737.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:639" tvg-name="Smallville 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272738.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:640" tvg-name="Smallville 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272739.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:641" tvg-name="Smallville 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272740.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:642" tvg-name="Smallville 6" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272741.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:643" tvg-name="Smallville 7" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 7
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272742.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:644" tvg-name="Smallville 8" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 8
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272743.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:645" tvg-name="Smallville 9" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 9
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272744.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:646" tvg-name="Smallville 10" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Smallville 10
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272745.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:647" tvg-name="Thiago Ventura" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",Thiago Ventura
+http://dns.explouddev.com:80/live/632270679/F823j7133R/260604.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:648" tvg-name="Cavaleiros do Zodiaco 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Cavaleiros do Zodiaco 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272754.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:649" tvg-name="Cavaleiros do Zodiaco 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Cavaleiros do Zodiaco 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272755.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:650" tvg-name="Cavaleiros do Zodiaco 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Cavaleiros do Zodiaco 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272756.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:651" tvg-name="Cavaleiros do Zodiaco 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Cavaleiros do Zodiaco 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272757.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:652" tvg-name="Cavaleiros do Zodiaco 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Cavaleiros do Zodiaco 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272758.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:653" tvg-name="Cavaleiros do Zodiaco 6" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Cavaleiros do Zodiaco 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272759.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:654" tvg-name="Os Simpsons 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272760.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:655" tvg-name="Os Simpsons 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272761.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:656" tvg-name="Os Simpsons 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272762.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:657" tvg-name="Os Simpsons 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272763.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:658" tvg-name="Os Simpsons 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272764.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:659" tvg-name="Os Simpsons 6" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272765.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:660" tvg-name="Os Simpsons 7" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 7
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272766.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:661" tvg-name="Os Simpsons 8" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 8
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272767.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:662" tvg-name="Os Simpsons 9" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 9
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272768.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:663" tvg-name="Os Simpsons 10" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 10
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272769.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:664" tvg-name="Os Simpsons 11" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 11
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272770.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:665" tvg-name="Os Simpsons 12" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 12
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272771.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:666" tvg-name="Os Simpsons 13" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 13
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272772.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:667" tvg-name="Os Simpsons 14" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 14
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272773.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:668" tvg-name="Os Simpsons 15" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 15
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272774.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:669" tvg-name="Os Simpsons 16" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 16
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272775.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:670" tvg-name="Os Simpsons 17" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 17
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272776.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:671" tvg-name="Os Simpsons 18" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 18
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272777.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:672" tvg-name="Os Simpsons 19" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 19
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272778.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:673" tvg-name="Os Simpsons 20" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 20
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272779.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:674" tvg-name="Os Simpsons 21" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 21
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272780.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:675" tvg-name="Os Simpsons 22" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 22
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272781.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:676" tvg-name="Os Simpsons 23" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 23
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272782.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:677" tvg-name="Os Simpsons 24" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 24
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272783.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:678" tvg-name="Os Simpsons 25" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 25
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272784.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:679" tvg-name="Os Simpsons 26" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 26
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272785.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:680" tvg-name="Os Simpsons 27" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 27
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272786.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:681" tvg-name="Os Simpsons 28" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 28
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272787.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:682" tvg-name="Os Simpsons 29" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 29
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272788.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:683" tvg-name="Os Simpsons 30" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 30
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272789.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:684" tvg-name="Os Simpsons 31" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 31
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272790.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:685" tvg-name="Os Simpsons 32" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 32
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272791.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:686" tvg-name="Os Simpsons 33" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 33
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272792.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:687" tvg-name="Os Simpsons 34" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Os Simpsons 34
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272793.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:688" tvg-name="Pocoyo" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pocoyo
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272794.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:689" tvg-name="Peppa Pig" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Peppa Pig
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272795.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:690" tvg-name="Dora Aventureira 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dora Aventureira 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272796.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:691" tvg-name="Dora Aventureira 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Dora Aventureira 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272797.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:692" tvg-name="Baby Looney Tunes" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Baby Looney Tunes
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272798.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:693" tvg-name="3 Palavrinhas" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",3 Palavrinhas
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272799.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:694" tvg-name="A Casa do Mickey Mouse" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",A Casa do Mickey Mouse
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272800.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:695" tvg-name="Doug 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Doug 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272801.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:696" tvg-name="Patrulha Canina 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Patrulha Canina 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272802.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:697" tvg-name="Patrulha Canina 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Patrulha Canina 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272803.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:698" tvg-name="Patrulha Canina 4" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Patrulha Canina 4
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272804.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:699" tvg-name="Patrulha Canina 5" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Patrulha Canina 5
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272805.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:700" tvg-name="Patrulha Canina 6" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Patrulha Canina 6
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272806.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:701" tvg-name="As Meninas Superpoderosas" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",As Meninas Superpoderosas
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272807.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:702" tvg-name="Pintinho Amarelinho 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pintinho Amarelinho 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272808.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:703" tvg-name="Pintinho Amarelinho 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pintinho Amarelinho 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272809.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:704" tvg-name="Princesa e o Dragão" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Princesa e o Dragão
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272810.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:705" tvg-name="Moranguinho 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Moranguinho 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272811.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:706" tvg-name="Moranguinho 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Moranguinho 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272812.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:707" tvg-name="Pantera Cor de Rosa 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pantera Cor de Rosa 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272813.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:708" tvg-name="Pantera Cor de Rosa 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pantera Cor de Rosa 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272814.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:709" tvg-name="Patati e Patata 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Patati e Patata 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272815.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:710" tvg-name="Patati e Patata 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Patati e Patata 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272816.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:711" tvg-name="Galinha Pintadinha" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Galinha Pintadinha
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272817.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:712" tvg-name="Galo e a Pata" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Galo e a Pata
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272818.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:713" tvg-name="Garfield 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Garfield 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272819.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:714" tvg-name="Garfield 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Garfield 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272820.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:715" tvg-name="Garfield 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Garfield 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272821.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:716" tvg-name="Sapo Não Lava o Pé 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Sapo Não Lava o Pé 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272822.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:717" tvg-name="Sapo Não Lava o Pé 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Sapo Não Lava o Pé 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272823.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:718" tvg-name="Irmão do Jorel 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Irmão do Jorel 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272824.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:719" tvg-name="Irmão do Jorel 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Irmão do Jorel 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272825.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:720" tvg-name="Doug 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Doug 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272826.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:721" tvg-name="Pato Donald" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pato Donald
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272827.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:722" tvg-name="Pequena Sereia" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pequena Sereia
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272828.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:723" tvg-name="Pernalonga 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pernalonga 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272829.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:724" tvg-name="Pernalonga 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pernalonga 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272830.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:725" tvg-name="Pica Pau 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pica Pau 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272831.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:726" tvg-name="Pica Pau 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pica Pau 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272832.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:727" tvg-name="Pica Pau 3" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pica Pau 3
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272833.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:728" tvg-name="Pinky e Cerebro" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pinky e Cerebro
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272834.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:729" tvg-name="Ursinhos Carinhosos 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Ursinhos Carinhosos 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272835.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:730" tvg-name="Ursinhos Carinhosos 2" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Ursinhos Carinhosos 2
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272836.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:731" tvg-name="PJ Masks" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",PJ Masks
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272837.m3u8
+#EXTINF:-1 tvg-id="maxnet:24horas:732" tvg-name="Pokemon 1" group-title="24 Horas" tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",Pokemon 1
+http://dns.explouddev.com:80/live/632270679/F823j7133R/272838.m3u8

@@ -1,0 +1,124 @@
+{
+  "metas": [
+    {
+      "id": "maxnet:variedades:10",
+      "type": "channel",
+      "name": "Bis",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_bis0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_bis0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_bis0001.png"
+    },
+    {
+      "id": "maxnet:variedades:6",
+      "type": "channel",
+      "name": "Curta!",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_curta0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_curta0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_curta0001.png"
+    },
+    {
+      "id": "maxnet:variedades:17",
+      "type": "channel",
+      "name": "Drive Channel TV",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_drivechannel0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_drivechannel0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_drivechannel0001.png"
+    },
+    {
+      "id": "maxnet:variedades:14",
+      "type": "channel",
+      "name": "Fashion TV",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_fashiontv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_fashiontv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_fashiontv0001.png"
+    },
+    {
+      "id": "maxnet:variedades:12",
+      "type": "channel",
+      "name": "Fish TV",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_fishtv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_fishtv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_fishtv0001.png"
+    },
+    {
+      "id": "maxnet:variedades:11",
+      "type": "channel",
+      "name": "Food Network",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_foodnetwork0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_foodnetwork0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_foodnetwork0001.png"
+    },
+    {
+      "id": "maxnet:variedades:3",
+      "type": "channel",
+      "name": "GNT",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_gnt0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_gnt0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_gnt0001.png"
+    },
+    {
+      "id": "maxnet:variedades:5",
+      "type": "channel",
+      "name": "Lifetime",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_lifetime0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_lifetime0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_lifetime0001.png"
+    },
+    {
+      "id": "maxnet:variedades:8",
+      "type": "channel",
+      "name": "Modo Viagem",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_maisglobosat0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_maisglobosat0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_maisglobosat0001.png"
+    },
+    {
+      "id": "maxnet:variedades:2",
+      "type": "channel",
+      "name": "Multishow",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_multishow0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_multishow0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_multishow0001.png"
+    },
+    {
+      "id": "maxnet:variedades:15",
+      "type": "channel",
+      "name": "Music Box Brazil",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_musicboxbr0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_musicboxbr0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_musicboxbr0001.png"
+    },
+    {
+      "id": "maxnet:variedades:4",
+      "type": "channel",
+      "name": "Prime Box Brazil",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_primeboxbrazil0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_primeboxbrazil0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_primeboxbrazil0001.png"
+    },
+    {
+      "id": "maxnet:variedades:9",
+      "type": "channel",
+      "name": "TLC",
+      "poster": "https://i.imgur.com/BOznDVO.png",
+      "posterThumb": "https://i.imgur.com/BOznDVO.png",
+      "background": "https://i.imgur.com/BOznDVO.png"
+    },
+    {
+      "id": "maxnet:variedades:16",
+      "type": "channel",
+      "name": "Trace Brasil",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_tracebrasil0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_tracebrasil0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_tracebrasil0001.png"
+    },
+    {
+      "id": "maxnet:variedades:13",
+      "type": "channel",
+      "name": "Travel Box Brazil",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_travelboxbrazil0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_travelboxbrazil0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_travelboxbrazil0001.png"
+    }
+  ]
+}
