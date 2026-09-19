@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Globo Nordeste(CDN)",
+      "title": "Globo Nordeste(CDN)",
+      "url": "http://dns.explouddev.com:80/live/287945811/148063/2428.m3u8"
+    }
+  ]
+}

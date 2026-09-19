@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Pluto CSI Miami",
+      "title": "Pluto CSI Miami",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId=stremio&appVersion=unknown&deviceDNT=0&deviceId=stremio&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown"
+    }
+  ]
+}
