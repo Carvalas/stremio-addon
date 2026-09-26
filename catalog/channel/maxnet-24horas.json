@@ -1,0 +1,2113 @@
+{
+  "metas": [
+    {
+      "id": "maxnet:24horas:693",
+      "type": "channel",
+      "name": "3 Palavrinhas",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:694",
+      "type": "channel",
+      "name": "A Casa do Mickey Mouse",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:568",
+      "type": "channel",
+      "name": "A Culpa é do Cabral 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:569",
+      "type": "channel",
+      "name": "A Culpa é do Cabral 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:570",
+      "type": "channel",
+      "name": "A Culpa é do Cabral 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:633",
+      "type": "channel",
+      "name": "A Grande Familia 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:634",
+      "type": "channel",
+      "name": "A Grande Familia 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:701",
+      "type": "channel",
+      "name": "As Meninas Superpoderosas",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:635",
+      "type": "channel",
+      "name": "As Visões da Raven",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:636",
+      "type": "channel",
+      "name": "Auto da Comparecida",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:692",
+      "type": "channel",
+      "name": "Baby Looney Tunes",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:590",
+      "type": "channel",
+      "name": "Batman - Trilogia",
+      "poster": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:648",
+      "type": "channel",
+      "name": "Cavaleiros do Zodiaco 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:649",
+      "type": "channel",
+      "name": "Cavaleiros do Zodiaco 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:650",
+      "type": "channel",
+      "name": "Cavaleiros do Zodiaco 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:651",
+      "type": "channel",
+      "name": "Cavaleiros do Zodiaco 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:652",
+      "type": "channel",
+      "name": "Cavaleiros do Zodiaco 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:653",
+      "type": "channel",
+      "name": "Cavaleiros do Zodiaco 6",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:544",
+      "type": "channel",
+      "name": "Chapolin 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:542",
+      "type": "channel",
+      "name": "Chaves 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:543",
+      "type": "channel",
+      "name": "Chaves 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:588",
+      "type": "channel",
+      "name": "DC Comics 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:589",
+      "type": "channel",
+      "name": "DC Comics 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:612",
+      "type": "channel",
+      "name": "Dois Homens e Meio 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:621",
+      "type": "channel",
+      "name": "Dois Homens e Meio 10",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:622",
+      "type": "channel",
+      "name": "Dois Homens e Meio 11",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:623",
+      "type": "channel",
+      "name": "Dois Homens e Meio 12",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:613",
+      "type": "channel",
+      "name": "Dois Homens e Meio 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:614",
+      "type": "channel",
+      "name": "Dois Homens e Meio 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:615",
+      "type": "channel",
+      "name": "Dois Homens e Meio 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:616",
+      "type": "channel",
+      "name": "Dois Homens e Meio 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:617",
+      "type": "channel",
+      "name": "Dois Homens e Meio 6",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:618",
+      "type": "channel",
+      "name": "Dois Homens e Meio 7",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:619",
+      "type": "channel",
+      "name": "Dois Homens e Meio 8",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:620",
+      "type": "channel",
+      "name": "Dois Homens e Meio 9",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:690",
+      "type": "channel",
+      "name": "Dora Aventureira 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:691",
+      "type": "channel",
+      "name": "Dora Aventureira 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:695",
+      "type": "channel",
+      "name": "Doug 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:720",
+      "type": "channel",
+      "name": "Doug 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:605",
+      "type": "channel",
+      "name": "Dragon Ball",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:597",
+      "type": "channel",
+      "name": "Dragon Ball 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:598",
+      "type": "channel",
+      "name": "Dragon Ball 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:599",
+      "type": "channel",
+      "name": "Dragon Ball Heroes",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:600",
+      "type": "channel",
+      "name": "Dragon Ball Super 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:601",
+      "type": "channel",
+      "name": "Dragon Ball Super 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:602",
+      "type": "channel",
+      "name": "Dragon Ball Super 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:603",
+      "type": "channel",
+      "name": "Dragon Ball Z 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:604",
+      "type": "channel",
+      "name": "Dragon Ball Z 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:545",
+      "type": "channel",
+      "name": "Escolinha do Professor Raimundo",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:547",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:548",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:549",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:550",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:551",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:571",
+      "type": "channel",
+      "name": "Friends 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:580",
+      "type": "channel",
+      "name": "Friends 10",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:572",
+      "type": "channel",
+      "name": "Friends 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:573",
+      "type": "channel",
+      "name": "Friends 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:574",
+      "type": "channel",
+      "name": "Friends 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:575",
+      "type": "channel",
+      "name": "Friends 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:576",
+      "type": "channel",
+      "name": "Friends 6",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:577",
+      "type": "channel",
+      "name": "Friends 7",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:578",
+      "type": "channel",
+      "name": "Friends 8",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:579",
+      "type": "channel",
+      "name": "Friends 9",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:711",
+      "type": "channel",
+      "name": "Galinha Pintadinha",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:712",
+      "type": "channel",
+      "name": "Galo e a Pata",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:713",
+      "type": "channel",
+      "name": "Garfield 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:714",
+      "type": "channel",
+      "name": "Garfield 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:715",
+      "type": "channel",
+      "name": "Garfield 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:624",
+      "type": "channel",
+      "name": "Harry Potter 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:625",
+      "type": "channel",
+      "name": "Harry Potter 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:718",
+      "type": "channel",
+      "name": "Irmão do Jorel 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:719",
+      "type": "channel",
+      "name": "Irmão do Jorel 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:611",
+      "type": "channel",
+      "name": "Jiraya",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:626",
+      "type": "channel",
+      "name": "Jogos Mortais 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:627",
+      "type": "channel",
+      "name": "Jogos Mortais 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:628",
+      "type": "channel",
+      "name": "Jogos Vorazes - Quadrilogia",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:629",
+      "type": "channel",
+      "name": "John Wick - Trilogia",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:591",
+      "type": "channel",
+      "name": "Marvel 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:592",
+      "type": "channel",
+      "name": "Marvel 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:593",
+      "type": "channel",
+      "name": "Marvel 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:594",
+      "type": "channel",
+      "name": "Marvel 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:630",
+      "type": "channel",
+      "name": "Maze Runner - Trilogia",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:705",
+      "type": "channel",
+      "name": "Moranguinho 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:706",
+      "type": "channel",
+      "name": "Moranguinho 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:631",
+      "type": "channel",
+      "name": "O Hobbit - Trilogia",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:632",
+      "type": "channel",
+      "name": "O Senhor dos Aneis - Trilogia",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:654",
+      "type": "channel",
+      "name": "Os Simpsons 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:663",
+      "type": "channel",
+      "name": "Os Simpsons 10",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:664",
+      "type": "channel",
+      "name": "Os Simpsons 11",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:665",
+      "type": "channel",
+      "name": "Os Simpsons 12",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:666",
+      "type": "channel",
+      "name": "Os Simpsons 13",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:667",
+      "type": "channel",
+      "name": "Os Simpsons 14",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:668",
+      "type": "channel",
+      "name": "Os Simpsons 15",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:669",
+      "type": "channel",
+      "name": "Os Simpsons 16",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:670",
+      "type": "channel",
+      "name": "Os Simpsons 17",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:671",
+      "type": "channel",
+      "name": "Os Simpsons 18",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:672",
+      "type": "channel",
+      "name": "Os Simpsons 19",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:655",
+      "type": "channel",
+      "name": "Os Simpsons 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:673",
+      "type": "channel",
+      "name": "Os Simpsons 20",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:674",
+      "type": "channel",
+      "name": "Os Simpsons 21",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:675",
+      "type": "channel",
+      "name": "Os Simpsons 22",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:676",
+      "type": "channel",
+      "name": "Os Simpsons 23",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:677",
+      "type": "channel",
+      "name": "Os Simpsons 24",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:678",
+      "type": "channel",
+      "name": "Os Simpsons 25",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:679",
+      "type": "channel",
+      "name": "Os Simpsons 26",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:680",
+      "type": "channel",
+      "name": "Os Simpsons 27",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:681",
+      "type": "channel",
+      "name": "Os Simpsons 28",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:682",
+      "type": "channel",
+      "name": "Os Simpsons 29",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:656",
+      "type": "channel",
+      "name": "Os Simpsons 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:683",
+      "type": "channel",
+      "name": "Os Simpsons 30",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:684",
+      "type": "channel",
+      "name": "Os Simpsons 31",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:685",
+      "type": "channel",
+      "name": "Os Simpsons 32",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:686",
+      "type": "channel",
+      "name": "Os Simpsons 33",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:687",
+      "type": "channel",
+      "name": "Os Simpsons 34",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:657",
+      "type": "channel",
+      "name": "Os Simpsons 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:658",
+      "type": "channel",
+      "name": "Os Simpsons 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:659",
+      "type": "channel",
+      "name": "Os Simpsons 6",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:660",
+      "type": "channel",
+      "name": "Os Simpsons 7",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:661",
+      "type": "channel",
+      "name": "Os Simpsons 8",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:662",
+      "type": "channel",
+      "name": "Os Simpsons 9",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:546",
+      "type": "channel",
+      "name": "Os Trapalhões",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:707",
+      "type": "channel",
+      "name": "Pantera Cor de Rosa 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:708",
+      "type": "channel",
+      "name": "Pantera Cor de Rosa 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:709",
+      "type": "channel",
+      "name": "Patati e Patata 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:710",
+      "type": "channel",
+      "name": "Patati e Patata 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:721",
+      "type": "channel",
+      "name": "Pato Donald",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:696",
+      "type": "channel",
+      "name": "Patrulha Canina 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:697",
+      "type": "channel",
+      "name": "Patrulha Canina 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:698",
+      "type": "channel",
+      "name": "Patrulha Canina 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:699",
+      "type": "channel",
+      "name": "Patrulha Canina 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:700",
+      "type": "channel",
+      "name": "Patrulha Canina 6",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:689",
+      "type": "channel",
+      "name": "Peppa Pig",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:722",
+      "type": "channel",
+      "name": "Pequena Sereia",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:723",
+      "type": "channel",
+      "name": "Pernalonga 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:724",
+      "type": "channel",
+      "name": "Pernalonga 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:725",
+      "type": "channel",
+      "name": "Pica Pau 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:726",
+      "type": "channel",
+      "name": "Pica Pau 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:727",
+      "type": "channel",
+      "name": "Pica Pau 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:728",
+      "type": "channel",
+      "name": "Pinky e Cerebro",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:702",
+      "type": "channel",
+      "name": "Pintinho Amarelinho 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:703",
+      "type": "channel",
+      "name": "Pintinho Amarelinho 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:731",
+      "type": "channel",
+      "name": "PJ Masks",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:688",
+      "type": "channel",
+      "name": "Pocoyo",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:732",
+      "type": "channel",
+      "name": "Pokemon 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:566",
+      "type": "channel",
+      "name": "Porta dos Fundos 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:567",
+      "type": "channel",
+      "name": "Porta dos Fundos 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:704",
+      "type": "channel",
+      "name": "Princesa e o Dragão",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:716",
+      "type": "channel",
+      "name": "Sapo Não Lava o Pé 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:717",
+      "type": "channel",
+      "name": "Sapo Não Lava o Pé 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:637",
+      "type": "channel",
+      "name": "Smallville 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:646",
+      "type": "channel",
+      "name": "Smallville 10",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:638",
+      "type": "channel",
+      "name": "Smallville 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:639",
+      "type": "channel",
+      "name": "Smallville 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:640",
+      "type": "channel",
+      "name": "Smallville 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:641",
+      "type": "channel",
+      "name": "Smallville 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:642",
+      "type": "channel",
+      "name": "Smallville 6",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:643",
+      "type": "channel",
+      "name": "Smallville 7",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:644",
+      "type": "channel",
+      "name": "Smallville 8",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:645",
+      "type": "channel",
+      "name": "Smallville 9",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:647",
+      "type": "channel",
+      "name": "Thiago Ventura",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:552",
+      "type": "channel",
+      "name": "Todo Mundo Odeia o Chris 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:553",
+      "type": "channel",
+      "name": "Todo Mundo Odeia o Chris 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:554",
+      "type": "channel",
+      "name": "Todo Mundo Odeia o Chris 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:555",
+      "type": "channel",
+      "name": "Todo Mundo Odeia o Chris 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:556",
+      "type": "channel",
+      "name": "Todo Mundo Odeia o Chris 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:557",
+      "type": "channel",
+      "name": "Todo Mundo Odeia o Chris 6",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:558",
+      "type": "channel",
+      "name": "Todo Mundo Odeia o Chris 7",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:559",
+      "type": "channel",
+      "name": "Todo Mundo Odeia o Chris 8",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:541",
+      "type": "channel",
+      "name": "Tokusato",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:560",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:561",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:562",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:563",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço 4",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:564",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:565",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço 6",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:729",
+      "type": "channel",
+      "name": "Ursinhos Carinhosos 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:730",
+      "type": "channel",
+      "name": "Ursinhos Carinhosos 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:581",
+      "type": "channel",
+      "name": "Vai que Cola 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:582",
+      "type": "channel",
+      "name": "Vai que Cola 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:583",
+      "type": "channel",
+      "name": "Vai que Cola 3",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:584",
+      "type": "channel",
+      "name": "Vai que Cola 5",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:585",
+      "type": "channel",
+      "name": "Vai que Cola 6",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:586",
+      "type": "channel",
+      "name": "Vai que Cola 7",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:587",
+      "type": "channel",
+      "name": "Vai que Cola 8",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:595",
+      "type": "channel",
+      "name": "X-Men 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:596",
+      "type": "channel",
+      "name": "X-Men 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/CANAIS-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:608",
+      "type": "channel",
+      "name": "Xena",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:609",
+      "type": "channel",
+      "name": "Xuxa só para Baixinhos 1",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:610",
+      "type": "channel",
+      "name": "Xuxa só para Baixinhos 2",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:606",
+      "type": "channel",
+      "name": "YT-Investigação Criminal",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    },
+    {
+      "id": "maxnet:24horas:607",
+      "type": "channel",
+      "name": "YT-Policia Militar",
+      "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "posterThumb": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+      "genres": [
+        "Ao Vivo - 24 Horas"
+      ]
+    }
+  ]
+}

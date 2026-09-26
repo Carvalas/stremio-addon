@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "Opção 01",
+      "title": "Opção 01",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/580835.m3u8"
+    },
+    {
+      "name": "Opção 02",
+      "title": "Opção 02",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/580834.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "name": "SBT SP (CDN)",
+      "title": "SBT SP (CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244161.m3u8"
+    },
+    {
+      "name": "SBT BA(CDN)",
+      "title": "SBT BA(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/377246.m3u8"
+    },
+    {
+      "name": "SBT RJ (CDN)",
+      "title": "SBT RJ (CDN)",
+      "url": "https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8"
+    },
+    {
+      "name": "SBT SC (CDN)",
+      "title": "SBT SC (CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244178.m3u8"
+    },
+    {
+      "name": "SBT RS (CDN)",
+      "title": "SBT RS (CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244181.m3u8"
+    },
+    {
+      "name": "SBT MG (CDN)",
+      "title": "SBT MG (CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/244184.m3u8"
+    }
+  ]
+}

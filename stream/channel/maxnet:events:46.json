@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "name": "Opção 01",
+      "title": "Opção 01",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/651080.m3u8"
+    },
+    {
+      "name": "Opção 02",
+      "title": "Opção 02",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/651081.m3u8"
+    },
+    {
+      "name": "Opção 03",
+      "title": "Opção 03",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/651082.m3u8"
+    },
+    {
+      "name": "Opção 04",
+      "title": "Opção 04",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/651083.m3u8"
+    },
+    {
+      "name": "Opção 05",
+      "title": "Opção 05",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/651084.m3u8"
+    },
+    {
+      "name": "Opção 06",
+      "title": "Opção 06",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/651085.m3u8"
+    },
+    {
+      "name": "Opção 07",
+      "title": "Opção 07",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/651086.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "streams": [
+    {
+      "name": "Globo BA(CDN)",
+      "title": "Globo BA(CDN)",
+      "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
+    },
+    {
+      "name": "Globo SP(CDN)",
+      "title": "Globo SP(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/289881.m3u8"
+    },
+    {
+      "name": "Globo RJ(CDN)",
+      "title": "Globo RJ(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2376.m3u8"
+    },
+    {
+      "name": "Globo Centro América(CDN)",
+      "title": "Globo Centro América(CDN)",
+      "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2455.m3u8"
+    },
+    {
+      "name": "Globo Nordeste(CDN)",
+      "title": "Globo Nordeste(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2428.m3u8"
+    },
+    {
+      "name": "Globo TV Morena(CDN)",
+      "title": "Globo TV Morena(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/274984.m3u8"
+    },
+    {
+      "name": "Globo Brasília(CDN)",
+      "title": "Globo Brasília(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2452.m3u8"
+    },
+    {
+      "name": "Globo Inter TV Cabugi(CDN)",
+      "title": "Globo Inter TV Cabugi(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2437.m3u8"
+    },
+    {
+      "name": "Globo Verde Mares(CDN)",
+      "title": "Globo Verde Mares(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/2434.m3u8"
+    },
+    {
+      "name": "Globo TV Diário CE(CDN)",
+      "title": "Globo TV Diário CE(CDN)",
+      "url": "http://dns.explouddev.com:80/live/632270679/F823j7133R/530124.m3u8"
+    }
+  ]
+}

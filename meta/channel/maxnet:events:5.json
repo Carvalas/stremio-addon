@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": "maxnet:events:5",
+    "type": "channel",
+    "name": "PlutoTV Séries",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_plutotv0001.png",
+    "description": "Ao Vivo - 24 Horas",
+    "genres": [
+      "events"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:events:5:src-1",
+        "title": "Pluto CSI Miami"
+      },
+      {
+        "id": "maxnet:events:5:src-2",
+        "title": "Pluto NCIS"
+      },
+      {
+        "id": "maxnet:events:5:src-8",
+        "title": "Pluto Séries Sci-Fi"
+      },
+      {
+        "id": "maxnet:events:5:src-11",
+        "title": "Bet Pluto"
+      },
+      {
+        "id": "maxnet:events:5:src-14",
+        "title": "Pluto Nick teen"
+      },
+      {
+        "id": "maxnet:events:5:src-16",
+        "title": "Pluto Kenan e Kel"
+      }
+    ]
+  }
+}

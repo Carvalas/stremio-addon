@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "id": "maxnet:events:9",
+    "type": "channel",
+    "name": "Músicas 24h 2",
+    "poster": "https://i.imgur.com/mB3Kqii.png",
+    "background": "https://i.imgur.com/mB3Kqii.png",
+    "logo": "https://i.imgur.com/mB3Kqii.png",
+    "description": "Ao Vivo - 24 Horas",
+    "genres": [
+      "events"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:events:9:src-0",
+        "title": "Maiara e Maraisa [Drive-In Na Terra]"
+      },
+      {
+        "id": "maxnet:events:9:src-1",
+        "title": "Maiara e Maraisa [Fun Live]"
+      },
+      {
+        "id": "maxnet:events:9:src-2",
+        "title": "Maiara e Maraisa [Workshow]"
+      },
+      {
+        "id": "maxnet:events:9:src-3",
+        "title": "Marilia Mendonça [Lado B]"
+      },
+      {
+        "id": "maxnet:events:9:src-4",
+        "title": "Marilia Mendonça [Live Local]"
+      },
+      {
+        "id": "maxnet:events:9:src-5",
+        "title": "Marilia Mendonça [Todos os Cantos]"
+      },
+      {
+        "id": "maxnet:events:9:src-6",
+        "title": "Marilia Mendonça [Workshow]"
+      },
+      {
+        "id": "maxnet:events:9:src-7",
+        "title": "Raça Negra e Alexandre Pires [Live Gigantes do Samba]"
+      },
+      {
+        "id": "maxnet:events:9:src-8",
+        "title": "Raça Negra e Amigos em Casa [Live 21-04-2020]"
+      },
+      {
+        "id": "maxnet:events:9:src-9",
+        "title": "Simone e Simaria [Live das Coleguinhas 1]"
+      },
+      {
+        "id": "maxnet:events:9:src-10",
+        "title": "Simone e Simaria [Live das Coleguinhas 2 Libras]"
+      },
+      {
+        "id": "maxnet:events:9:src-11",
+        "title": "Simone e Simaria [Live das Coleguinhas 2]"
+      },
+      {
+        "id": "maxnet:events:9:src-12",
+        "title": "Simone e Simaria [Pocket Show]"
+      },
+      {
+        "id": "maxnet:events:9:src-13",
+        "title": "Simone e Simaria [Yoki, Live Junina]"
+      },
+      {
+        "id": "maxnet:events:9:src-14",
+        "title": "Só Pra Contrariar [Especial 30 Anos]"
+      },
+      {
+        "id": "maxnet:events:9:src-15",
+        "title": "Só Pra Contrariar [Session 2]"
+      },
+      {
+        "id": "maxnet:events:9:src-16",
+        "title": "Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]"
+      },
+      {
+        "id": "maxnet:events:9:src-17",
+        "title": "Trio Parada Dura [A Última Live - Especial Parrerito]"
+      },
+      {
+        "id": "maxnet:events:9:src-18",
+        "title": "VillaMix em Casa [Só Modão]"
+      },
+      {
+        "id": "maxnet:events:9:src-19",
+        "title": "Wesley Safadao e Raca Negra [Skol Sunset]"
+      },
+      {
+        "id": "maxnet:events:9:src-20",
+        "title": "Xand Aviao e os Barões da Pisadinha [Live Oficial]"
+      },
+      {
+        "id": "maxnet:events:9:src-21",
+        "title": "Zé Neto e Cristiano [Live Barretão]"
+      },
+      {
+        "id": "maxnet:events:9:src-22",
+        "title": "Zé Neto e Cristiano [Live Barzinho Aleatório]"
+      },
+      {
+        "id": "maxnet:events:9:src-23",
+        "title": "Zé Neto e Cristiano [Live Dia da Cerveja]"
+      },
+      {
+        "id": "maxnet:events:9:src-24",
+        "title": "Jorge e Mateus [Na Praia Hotel]"
+      },
+      {
+        "id": "maxnet:events:9:src-25",
+        "title": "Jorge e Mateus [Pelo Amor de Deus]"
+      }
+    ]
+  }
+}
