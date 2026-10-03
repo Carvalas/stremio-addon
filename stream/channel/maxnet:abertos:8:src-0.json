@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "SBT SP (CDN)",
+      "title": "SBT SP (CDN)",
+      "url": "http://dns.explouddev.com:80/live/287945811/148063/244161.m3u8"
+    }
+  ]
+}

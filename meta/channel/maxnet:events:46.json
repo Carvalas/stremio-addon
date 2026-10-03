@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "id": "maxnet:events:46",
+    "type": "channel",
+    "name": "A Fazenda",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_afazenda0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_afazenda0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_afazenda0001.png",
+    "description": "Ao Vivo - 24 Horas",
+    "genres": [
+      "events"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:events:46:src-0",
+        "title": "Opção 01"
+      },
+      {
+        "id": "maxnet:events:46:src-1",
+        "title": "Opção 02"
+      },
+      {
+        "id": "maxnet:events:46:src-2",
+        "title": "Opção 03"
+      },
+      {
+        "id": "maxnet:events:46:src-3",
+        "title": "Opção 04"
+      },
+      {
+        "id": "maxnet:events:46:src-4",
+        "title": "Opção 05"
+      },
+      {
+        "id": "maxnet:events:46:src-5",
+        "title": "Opção 06"
+      },
+      {
+        "id": "maxnet:events:46:src-6",
+        "title": "Opção 07"
+      }
+    ]
+  }
+}

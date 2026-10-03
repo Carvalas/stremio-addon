@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:sports:24",
+    "type": "channel",
+    "name": "Paramount+",
+    "poster": "https://i.imgur.com/YlKpabZ.png",
+    "background": "https://i.imgur.com/YlKpabZ.png",
+    "logo": "https://i.imgur.com/YlKpabZ.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "sports"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:sports:24:src-0",
+        "title": "Opção 01(CDN)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "K-Pop",
+      "title": "K-Pop",
+      "url": "https://stream.hunter.fm/kpop/64.m3u8"
+    }
+  ]
+}

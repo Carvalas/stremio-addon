@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "name": "Record SP",
+      "title": "Record SP",
+      "url": "http://dns.explouddev.com:80/live/287945811/148063/244071.m3u8"
+    },
+    {
+      "name": "Record BA",
+      "title": "Record BA",
+      "url": "http://dns.explouddev.com:80/live/287945811/148063/558027.m3u8"
+    },
+    {
+      "name": "Record RJ",
+      "title": "Record RJ",
+      "url": "http://dns.explouddev.com:80/live/287945811/148063/528661.m3u8"
+    },
+    {
+      "name": "Record PA",
+      "title": "Record PA",
+      "url": "http://dns.explouddev.com:80/live/287945811/148063/244129.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Globo Inter TV Cabugi(CDN)",
+      "title": "Globo Inter TV Cabugi(CDN)",
+      "url": "http://dns.explouddev.com:80/live/287945811/148063/2437.m3u8"
+    }
+  ]
+}
