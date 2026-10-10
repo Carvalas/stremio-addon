@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "maxnet:sports:124",
+    "type": "channel",
+    "name": "XSports",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_xsports0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_xsports0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_xsports0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "sports"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:sports:124:src-0",
+        "title": "Opção 01"
+      },
+      {
+        "id": "maxnet:sports:124:src-1",
+        "title": "Opção 02"
+      }
+    ]
+  }
+}

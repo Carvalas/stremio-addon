@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Globo Verde Mares(CDN)",
+      "title": "Globo Verde Mares(CDN)",
+      "url": "http://dns.explouddev.com:80/live/501212992/G1Dw4f/2434.m3u8"
+    }
+  ]
+}

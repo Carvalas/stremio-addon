@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:variedades:9",
+    "type": "channel",
+    "name": "TLC",
+    "poster": "https://i.imgur.com/BOznDVO.png",
+    "background": "https://i.imgur.com/BOznDVO.png",
+    "logo": "https://i.imgur.com/BOznDVO.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "variedades"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:variedades:9:src-0",
+        "title": "Opção 01(CDN)"
+      }
+    ]
+  }
+}

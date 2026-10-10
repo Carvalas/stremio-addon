@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "maxnet:abertos:10",
+    "type": "channel",
+    "name": "Band",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_band0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_band0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_band0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "abertos"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:abertos:10:src-0",
+        "title": "Band SP(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:10:src-2",
+        "title": "Band MG(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:10:src-3",
+        "title": "Band BA(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:10:src-4",
+        "title": "Band Brasília(CDN)"
+      }
+    ]
+  }
+}

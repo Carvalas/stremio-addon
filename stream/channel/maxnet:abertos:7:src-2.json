@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Globo RJ(CDN)",
+      "title": "Globo RJ(CDN)",
+      "url": "http://dns.explouddev.com:80/live/501212992/G1Dw4f/2376.m3u8"
+    }
+  ]
+}

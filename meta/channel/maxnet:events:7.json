@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "id": "maxnet:events:7",
+    "type": "channel",
+    "name": "Hunter FM",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_hunterfm0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_hunterfm0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_hunterfm0001.png",
+    "description": "Rádios - 24 Horas",
+    "genres": [
+      "events"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:events:7:src-0",
+        "title": "Sertanejo"
+      },
+      {
+        "id": "maxnet:events:7:src-1",
+        "title": "Pop"
+      },
+      {
+        "id": "maxnet:events:7:src-2",
+        "title": "MPB"
+      },
+      {
+        "id": "maxnet:events:7:src-3",
+        "title": "Pagode "
+      },
+      {
+        "id": "maxnet:events:7:src-4",
+        "title": "Rock"
+      },
+      {
+        "id": "maxnet:events:7:src-5",
+        "title": "Hits Brasil"
+      },
+      {
+        "id": "maxnet:events:7:src-6",
+        "title": "K-Pop"
+      },
+      {
+        "id": "maxnet:events:7:src-7",
+        "title": "Moda Sertaneja"
+      },
+      {
+        "id": "maxnet:events:7:src-8",
+        "title": "Gospel"
+      },
+      {
+        "id": "maxnet:events:7:src-9",
+        "title": "Pop2K"
+      },
+      {
+        "id": "maxnet:events:7:src-10",
+        "title": "80s Retrô"
+      },
+      {
+        "id": "maxnet:events:7:src-11",
+        "title": "Pisadinha"
+      },
+      {
+        "id": "maxnet:events:7:src-12",
+        "title": "Lo-fi"
+      },
+      {
+        "id": "maxnet:events:7:src-13",
+        "title": "Tropical"
+      },
+      {
+        "id": "maxnet:events:7:src-14",
+        "title": "Seleção Master"
+      }
+    ]
+  }
+}
