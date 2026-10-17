@@ -1,0 +1,100 @@
+{
+  "metas": [
+    {
+      "id": "maxnet:abertos:10",
+      "type": "channel",
+      "name": "Band",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_band0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_band0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_band0001.png"
+    },
+    {
+      "id": "maxnet:abertos:14",
+      "type": "channel",
+      "name": "Futura",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_futura0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_futura0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_futura0001.png"
+    },
+    {
+      "id": "maxnet:abertos:7",
+      "type": "channel",
+      "name": "Globo",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_globo0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_globo0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_globo0001.png"
+    },
+    {
+      "id": "maxnet:abertos:11",
+      "type": "channel",
+      "name": "Record",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_record0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_record0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_record0001.png"
+    },
+    {
+      "id": "maxnet:abertos:16",
+      "type": "channel",
+      "name": "Rede Brasil",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png"
+    },
+    {
+      "id": "maxnet:abertos:13",
+      "type": "channel",
+      "name": "RedeTV!",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_redetv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_redetv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_redetv0001.png"
+    },
+    {
+      "id": "maxnet:abertos:8",
+      "type": "channel",
+      "name": "SBT",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_sbt0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_sbt0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_sbt0001.png"
+    },
+    {
+      "id": "maxnet:abertos:17",
+      "type": "channel",
+      "name": "TV Acrítica",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png"
+    },
+    {
+      "id": "maxnet:abertos:115",
+      "type": "channel",
+      "name": "TV Aparecida",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_tvaparecida0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_tvaparecida0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_tvaparecida0001.png"
+    },
+    {
+      "id": "maxnet:abertos:116",
+      "type": "channel",
+      "name": "TV Brasil",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_tvbrasil0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_tvbrasil0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_tvbrasil0001.png"
+    },
+    {
+      "id": "maxnet:abertos:15",
+      "type": "channel",
+      "name": "TV Cultura",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png"
+    },
+    {
+      "id": "maxnet:abertos:119",
+      "type": "channel",
+      "name": "TV Evangelizar",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_tvevangelizar0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_tvevangelizar0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_tvevangelizar0001.png"
+    }
+  ]
+}

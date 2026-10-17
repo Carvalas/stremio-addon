@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:infantil:14",
+    "type": "channel",
+    "name": "DumDum",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_zoomoo0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_zoomoo0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_zoomoo0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "infantil"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:infantil:14:src-0",
+        "title": "Opção 01(CDN)"
+      }
+    ]
+  }
+}
