@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:docs:19",
+    "type": "channel",
+    "name": "Arte1",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_arteum0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_arteum0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_arteum0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "docs"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:docs:19:src-0",
+        "title": "Opção 1(CDN)"
+      }
+    ]
+  }
+}

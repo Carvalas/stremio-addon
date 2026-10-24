@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "maxnet:sports:112",
+    "type": "channel",
+    "name": "Prime Vídeo",
+    "poster": "https://i.imgur.com/U5OE999.png",
+    "background": "https://i.imgur.com/U5OE999.png",
+    "logo": "https://i.imgur.com/U5OE999.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "sports"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:sports:112:src-0",
+        "title": "Opção 01"
+      },
+      {
+        "id": "maxnet:sports:112:src-1",
+        "title": "Opção 02"
+      },
+      {
+        "id": "maxnet:sports:112:src-2",
+        "title": "Opção 03"
+      }
+    ]
+  }
+}

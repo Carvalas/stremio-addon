@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:24horas:566",
+    "type": "channel",
+    "name": "Porta dos Fundos 1",
+    "poster": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+    "background": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+    "logo": "http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png",
+    "description": "Ao Vivo - 24 Horas",
+    "genres": [
+      "24horas"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:24horas:566:src-0",
+        "title": "Opção 01"
+      }
+    ]
+  }
+}

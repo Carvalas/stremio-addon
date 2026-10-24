@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:24horas:679",
+    "type": "channel",
+    "name": "Os Simpsons 26",
+    "poster": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+    "background": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+    "logo": "http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png",
+    "description": "Ao Vivo - 24 Horas",
+    "genres": [
+      "24horas"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:24horas:679:src-0",
+        "title": "Opção 01"
+      }
+    ]
+  }
+}

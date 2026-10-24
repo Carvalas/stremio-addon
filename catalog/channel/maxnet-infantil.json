@@ -1,0 +1,76 @@
+{
+  "metas": [
+    {
+      "id": "maxnet:infantil:13",
+      "type": "channel",
+      "name": "Adult Swim",
+      "poster": "https://i.imgur.com/4TEXo8R.png",
+      "posterThumb": "https://i.imgur.com/4TEXo8R.png",
+      "background": "https://i.imgur.com/4TEXo8R.png"
+    },
+    {
+      "id": "maxnet:infantil:1",
+      "type": "channel",
+      "name": "Cartoon Network",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_cartoon0001.png"
+    },
+    {
+      "id": "maxnet:infantil:2",
+      "type": "channel",
+      "name": "Cartoonito",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_cartoonito0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_cartoonito0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_cartoonito0001.png"
+    },
+    {
+      "id": "maxnet:infantil:5",
+      "type": "channel",
+      "name": "Discovery Kids",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_discoverykids0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_discoverykids0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_discoverykids0001.png"
+    },
+    {
+      "id": "maxnet:infantil:18",
+      "type": "channel",
+      "name": "Dog TV",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_dogtv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_dogtv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_dogtv0001.png"
+    },
+    {
+      "id": "maxnet:infantil:14",
+      "type": "channel",
+      "name": "DumDum",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_zoomoo0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_zoomoo0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_zoomoo0001.png"
+    },
+    {
+      "id": "maxnet:infantil:4",
+      "type": "channel",
+      "name": "Gloob",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_gloob0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_gloob0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_gloob0001.png"
+    },
+    {
+      "id": "maxnet:infantil:6",
+      "type": "channel",
+      "name": "Gloobinho",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_gloobinho0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_gloobinho0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_gloobinho0001.png"
+    },
+    {
+      "id": "maxnet:infantil:20",
+      "type": "channel",
+      "name": "Loading",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_loading0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_loading0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_loading0001.png"
+    }
+  ]
+}
