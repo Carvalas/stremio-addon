@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "maxnet:sports:111",
+    "type": "channel",
+    "name": "Disney+",
+    "poster": "https://i.imgur.com/IVkNsIJ.png",
+    "background": "https://i.imgur.com/IVkNsIJ.png",
+    "logo": "https://i.imgur.com/IVkNsIJ.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "sports"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:sports:111:src-0",
+        "title": "Evento 01(CDN)"
+      },
+      {
+        "id": "maxnet:sports:111:src-1",
+        "title": "Evento 02(CDN)"
+      },
+      {
+        "id": "maxnet:sports:111:src-2",
+        "title": "Evento 03(CDN)"
+      },
+      {
+        "id": "maxnet:sports:111:src-3",
+        "title": "Evento 04(CDN)"
+      }
+    ]
+  }
+}

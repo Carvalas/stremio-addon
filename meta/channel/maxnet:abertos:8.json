@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": "maxnet:abertos:8",
+    "type": "channel",
+    "name": "SBT",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_sbt0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_sbt0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_sbt0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "abertos"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:abertos:8:src-0",
+        "title": "SBT SP (CDN)"
+      },
+      {
+        "id": "maxnet:abertos:8:src-1",
+        "title": "SBT BA(CDN)"
+      },
+      {
+        "id": "maxnet:abertos:8:src-2",
+        "title": "SBT RJ (CDN)"
+      },
+      {
+        "id": "maxnet:abertos:8:src-3",
+        "title": "SBT SC (CDN)"
+      },
+      {
+        "id": "maxnet:abertos:8:src-4",
+        "title": "SBT RS (CDN)"
+      },
+      {
+        "id": "maxnet:abertos:8:src-5",
+        "title": "SBT MG (CDN)"
+      }
+    ]
+  }
+}
