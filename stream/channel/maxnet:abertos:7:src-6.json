@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Globo TV Morena(CDN)",
+      "title": "Globo TV Morena(CDN)",
+      "url": "http://dns.explouddev.com:80/live/360121095/Q360z4362q/274984.m3u8"
+    }
+  ]
+}

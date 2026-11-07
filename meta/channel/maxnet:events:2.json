@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "maxnet:events:2",
+    "type": "channel",
+    "name": "SBT+",
+    "poster": "https://i.imgur.com/lHJgBwD.png",
+    "background": "https://i.imgur.com/lHJgBwD.png",
+    "logo": "https://i.imgur.com/lHJgBwD.png",
+    "description": "Ao Vivo - 24 Horas",
+    "genres": [
+      "events"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:events:2:src-0",
+        "title": "SBT+ Silvio Santos"
+      },
+      {
+        "id": "maxnet:events:2:src-1",
+        "title": "SBT+ Novelas"
+      },
+      {
+        "id": "maxnet:events:2:src-2",
+        "title": "SBT+ Pop"
+      },
+      {
+        "id": "maxnet:events:2:src-3",
+        "title": "SBT+ TVZYN"
+      }
+    ]
+  }
+}

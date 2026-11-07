@@ -1,0 +1,308 @@
+{
+  "metas": [
+    {
+      "id": "maxnet:sports:119",
+      "type": "channel",
+      "name": "Apple TV",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_appletv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_appletv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_appletv0001.png"
+    },
+    {
+      "id": "maxnet:sports:10",
+      "type": "channel",
+      "name": "Band Sports",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_bandsports0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_bandsports0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_bandsports0001.png"
+    },
+    {
+      "id": "maxnet:sports:115",
+      "type": "channel",
+      "name": "Canal Goat",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_canalgoat0002.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_canalgoat0002.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_canalgoat0002.png"
+    },
+    {
+      "id": "maxnet:sports:19",
+      "type": "channel",
+      "name": "Combate",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_combate0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_combate0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_combate0001.png"
+    },
+    {
+      "id": "maxnet:sports:120",
+      "type": "channel",
+      "name": "Dazn",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_dazn0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_dazn0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_dazn0001.png"
+    },
+    {
+      "id": "maxnet:sports:111",
+      "type": "channel",
+      "name": "Disney+",
+      "poster": "https://i.imgur.com/IVkNsIJ.png",
+      "posterThumb": "https://i.imgur.com/IVkNsIJ.png",
+      "background": "https://i.imgur.com/IVkNsIJ.png"
+    },
+    {
+      "id": "maxnet:sports:121",
+      "type": "channel",
+      "name": "Eleven Sports",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_elevensports0001.png"
+    },
+    {
+      "id": "maxnet:sports:4",
+      "type": "channel",
+      "name": "ESPN",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png"
+    },
+    {
+      "id": "maxnet:sports:5",
+      "type": "channel",
+      "name": "ESPN 2",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_espntwo0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_espntwo0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_espntwo0001.png"
+    },
+    {
+      "id": "maxnet:sports:6",
+      "type": "channel",
+      "name": "ESPN 3",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png"
+    },
+    {
+      "id": "maxnet:sports:7",
+      "type": "channel",
+      "name": "ESPN 4",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png"
+    },
+    {
+      "id": "maxnet:sports:8",
+      "type": "channel",
+      "name": "ESPN 5",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png"
+    },
+    {
+      "id": "maxnet:sports:9",
+      "type": "channel",
+      "name": "ESPN 6",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_espn0001.png"
+    },
+    {
+      "id": "maxnet:sports:125",
+      "type": "channel",
+      "name": "GE TV",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_getv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_getv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_getv0001.png"
+    },
+    {
+      "id": "maxnet:sports:103",
+      "type": "channel",
+      "name": "HBO Max",
+      "poster": "https://i.imgur.com/GZSYVVf.png",
+      "posterThumb": "https://i.imgur.com/GZSYVVf.png",
+      "background": "https://i.imgur.com/GZSYVVf.png"
+    },
+    {
+      "id": "maxnet:sports:104",
+      "type": "channel",
+      "name": "HBO Max 2",
+      "poster": "https://i.imgur.com/GZSYVVf.png",
+      "posterThumb": "https://i.imgur.com/GZSYVVf.png",
+      "background": "https://i.imgur.com/GZSYVVf.png"
+    },
+    {
+      "id": "maxnet:sports:105",
+      "type": "channel",
+      "name": "HBO Max 3",
+      "poster": "https://i.imgur.com/GZSYVVf.png",
+      "posterThumb": "https://i.imgur.com/GZSYVVf.png",
+      "background": "https://i.imgur.com/GZSYVVf.png"
+    },
+    {
+      "id": "maxnet:sports:106",
+      "type": "channel",
+      "name": "HBO Max 4",
+      "poster": "https://i.imgur.com/GZSYVVf.png",
+      "posterThumb": "https://i.imgur.com/GZSYVVf.png",
+      "background": "https://i.imgur.com/GZSYVVf.png"
+    },
+    {
+      "id": "maxnet:sports:24",
+      "type": "channel",
+      "name": "Paramount+",
+      "poster": "https://i.imgur.com/YlKpabZ.png",
+      "posterThumb": "https://i.imgur.com/YlKpabZ.png",
+      "background": "https://i.imgur.com/YlKpabZ.png"
+    },
+    {
+      "id": "maxnet:sports:25",
+      "type": "channel",
+      "name": "Paramount+ 2",
+      "poster": "https://i.imgur.com/YlKpabZ.png",
+      "posterThumb": "https://i.imgur.com/YlKpabZ.png",
+      "background": "https://i.imgur.com/YlKpabZ.png"
+    },
+    {
+      "id": "maxnet:sports:109",
+      "type": "channel",
+      "name": "Paramount+ 3",
+      "poster": "https://i.imgur.com/YlKpabZ.png",
+      "posterThumb": "https://i.imgur.com/YlKpabZ.png",
+      "background": "https://i.imgur.com/YlKpabZ.png"
+    },
+    {
+      "id": "maxnet:sports:110",
+      "type": "channel",
+      "name": "Paramount+ 4",
+      "poster": "https://i.imgur.com/YlKpabZ.png",
+      "posterThumb": "https://i.imgur.com/YlKpabZ.png",
+      "background": "https://i.imgur.com/YlKpabZ.png"
+    },
+    {
+      "id": "maxnet:sports:11",
+      "type": "channel",
+      "name": "Premiere",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png"
+    },
+    {
+      "id": "maxnet:sports:12",
+      "type": "channel",
+      "name": "Premiere 2",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png"
+    },
+    {
+      "id": "maxnet:sports:13",
+      "type": "channel",
+      "name": "Premiere 3",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png"
+    },
+    {
+      "id": "maxnet:sports:14",
+      "type": "channel",
+      "name": "Premiere 4",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png"
+    },
+    {
+      "id": "maxnet:sports:15",
+      "type": "channel",
+      "name": "Premiere 5",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png"
+    },
+    {
+      "id": "maxnet:sports:16",
+      "type": "channel",
+      "name": "Premiere 6",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png"
+    },
+    {
+      "id": "maxnet:sports:17",
+      "type": "channel",
+      "name": "Premiere 7",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png"
+    },
+    {
+      "id": "maxnet:sports:18",
+      "type": "channel",
+      "name": "Premiere 8",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_premiere0001.png"
+    },
+    {
+      "id": "maxnet:sports:112",
+      "type": "channel",
+      "name": "Prime Vídeo",
+      "poster": "https://i.imgur.com/U5OE999.png",
+      "posterThumb": "https://i.imgur.com/U5OE999.png",
+      "background": "https://i.imgur.com/U5OE999.png"
+    },
+    {
+      "id": "maxnet:sports:1",
+      "type": "channel",
+      "name": "SporTV",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_sportv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_sportv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_sportv0001.png"
+    },
+    {
+      "id": "maxnet:sports:2",
+      "type": "channel",
+      "name": "SporTV 2",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_sportvtwo0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_sportvtwo0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_sportvtwo0001.png"
+    },
+    {
+      "id": "maxnet:sports:3",
+      "type": "channel",
+      "name": "SporTV 3",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_sportvthree0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_sportvthree0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_sportvthree0001.png"
+    },
+    {
+      "id": "maxnet:sports:122",
+      "type": "channel",
+      "name": "SporTV PT",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png"
+    },
+    {
+      "id": "maxnet:sports:114",
+      "type": "channel",
+      "name": "SportyNet",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png"
+    },
+    {
+      "id": "maxnet:sports:23",
+      "type": "channel",
+      "name": "UFC Fight Pass",
+      "poster": "https://i.imgur.com/paisBTw.png",
+      "posterThumb": "https://i.imgur.com/paisBTw.png",
+      "background": "https://i.imgur.com/paisBTw.png"
+    },
+    {
+      "id": "maxnet:sports:124",
+      "type": "channel",
+      "name": "XSports",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_xsports0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_xsports0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_xsports0001.png"
+    }
+  ]
+}
