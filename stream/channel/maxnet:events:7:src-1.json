@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Pop",
+      "title": "Pop",
+      "url": "https://stream.hunter.fm/pop/64.m3u8"
+    }
+  ]
+}

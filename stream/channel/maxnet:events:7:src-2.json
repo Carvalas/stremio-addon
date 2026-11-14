@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "MPB",
+      "title": "MPB",
+      "url": "https://stream.hunter.fm/mpb/64.m3u8"
+    }
+  ]
+}

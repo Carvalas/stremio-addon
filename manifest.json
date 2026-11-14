@@ -1,0 +1,85 @@
+{
+  "id": "com.maxnet.stremio",
+  "version": "1.1.2",
+  "name": "Live TV",
+  "description": "Catálogo de canais de TV ao vivo (abertos, esportes, notícias, infantil, variedades, documentários, 24 horas). Cada fonte é classificada por um probe HTTP e só é entregue se reproduzível diretamente, sem servidor ou proxy próprio.",
+  "logo": "https://raw.githubusercontent.com/carvalas/stremio-addon/main/logo.svg",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "channel"
+  ],
+  "idPrefixes": [
+    "maxnet:"
+  ],
+  "catalogs": [
+    {
+      "type": "channel",
+      "id": "maxnet-todos",
+      "name": "Todos",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "channel",
+      "id": "maxnet-abertos",
+      "name": "Abertos",
+      "extra": []
+    },
+    {
+      "type": "channel",
+      "id": "maxnet-sports",
+      "name": "Esportes",
+      "extra": []
+    },
+    {
+      "type": "channel",
+      "id": "maxnet-news",
+      "name": "Notícias",
+      "extra": []
+    },
+    {
+      "type": "channel",
+      "id": "maxnet-infantil",
+      "name": "Infantil",
+      "extra": []
+    },
+    {
+      "type": "channel",
+      "id": "maxnet-variedades",
+      "name": "Variedades",
+      "extra": []
+    },
+    {
+      "type": "channel",
+      "id": "maxnet-docs",
+      "name": "Documentários",
+      "extra": []
+    },
+    {
+      "type": "channel",
+      "id": "maxnet-filmseseries",
+      "name": "Filmes & Séries",
+      "extra": []
+    },
+    {
+      "type": "channel",
+      "id": "maxnet-24horas",
+      "name": "24 Horas",
+      "extra": []
+    },
+    {
+      "type": "channel",
+      "id": "maxnet-events",
+      "name": "Eventos",
+      "extra": []
+    }
+  ]
+}

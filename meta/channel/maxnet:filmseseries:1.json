@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "maxnet:filmseseries:1",
+    "type": "channel",
+    "name": "Cinemax",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "filmseseries"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:filmseseries:1:src-0",
+        "title": "Opção 01(CDN)"
+      },
+      {
+        "id": "maxnet:filmseseries:1:src-1",
+        "title": "Opção 02(CDN)"
+      },
+      {
+        "id": "maxnet:filmseseries:1:src-2",
+        "title": "Opção 03(CDN)"
+      }
+    ]
+  }
+}
