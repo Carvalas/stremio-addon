@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:filmseseries:34",
+    "type": "channel",
+    "name": "TCM",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_tcm0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_tcm0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_tcm0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "filmseseries"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:filmseseries:34:src-0",
+        "title": "Opção 01(CDN)"
+      }
+    ]
+  }
+}
