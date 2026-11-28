@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:filmseseries:42",
+    "type": "channel",
+    "name": "Canal Brasil",
+    "poster": "https://i.imgur.com/8PuNxoS.png",
+    "background": "https://i.imgur.com/8PuNxoS.png",
+    "logo": "https://i.imgur.com/8PuNxoS.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "filmseseries"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:filmseseries:42:src-0",
+        "title": "Opção 01(CDN)"
+      }
+    ]
+  }
+}

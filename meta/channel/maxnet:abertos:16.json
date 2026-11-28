@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "maxnet:abertos:16",
+    "type": "channel",
+    "name": "Rede Brasil",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "abertos"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:abertos:16:src-0",
+        "title": "Opção 01"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "maxnet:filmseseries:46",
+    "type": "channel",
+    "name": "Cine Sky",
+    "poster": "https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png",
+    "background": "https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png",
+    "logo": "https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png",
+    "description": "Canal de TV ao vivo.",
+    "genres": [
+      "filmseseries"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:filmseseries:46:src-0",
+        "title": "Cine Sky 01"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-1",
+        "title": "Cine Sky 02"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-2",
+        "title": "Cine Sky 03"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-3",
+        "title": "Cine Sky 04"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-4",
+        "title": "Cine Sky 05"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-5",
+        "title": "Cine Sky 06"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-6",
+        "title": "Cine Sky 07"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-7",
+        "title": "Cine Sky 08"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-8",
+        "title": "Cine Sky 09"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-9",
+        "title": "Cine Sky 10"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-10",
+        "title": "Cine Sky 11"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-11",
+        "title": "Cine Sky 12"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-12",
+        "title": "Cine Sky 13"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-13",
+        "title": "Cine Sky 14"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-14",
+        "title": "Cine Sky 15"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-15",
+        "title": "Cine Sky 16"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-16",
+        "title": "Cine Sky 17"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-17",
+        "title": "Cine Sky 18"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-18",
+        "title": "Cine Sky 19"
+      },
+      {
+        "id": "maxnet:filmseseries:46:src-19",
+        "title": "Cine Sky 20"
+      }
+    ]
+  }
+}

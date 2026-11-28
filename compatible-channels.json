@@ -1,0 +1,622 @@
+[
+  {
+    "id": "maxnet:24horas:569",
+    "name": "A Culpa é do Cabral 2"
+  },
+  {
+    "id": "maxnet:24horas:570",
+    "name": "A Culpa é do Cabral 3"
+  },
+  {
+    "id": "maxnet:24horas:633",
+    "name": "A Grande Familia 1"
+  },
+  {
+    "id": "maxnet:24horas:634",
+    "name": "A Grande Familia 2"
+  },
+  {
+    "id": "maxnet:infantil:13",
+    "name": "Adult Swim"
+  },
+  {
+    "id": "maxnet:sports:119",
+    "name": "Apple TV"
+  },
+  {
+    "id": "maxnet:24horas:635",
+    "name": "As Visões da Raven"
+  },
+  {
+    "id": "maxnet:24horas:636",
+    "name": "Auto da Comparecida"
+  },
+  {
+    "id": "maxnet:abertos:10",
+    "name": "Band"
+  },
+  {
+    "id": "maxnet:news:2",
+    "name": "Band News"
+  },
+  {
+    "id": "maxnet:sports:10",
+    "name": "Band Sports"
+  },
+  {
+    "id": "maxnet:24horas:590",
+    "name": "Batman - Trilogia"
+  },
+  {
+    "id": "maxnet:sports:115",
+    "name": "Canal Goat"
+  },
+  {
+    "id": "maxnet:infantil:1",
+    "name": "Cartoon Network"
+  },
+  {
+    "id": "maxnet:infantil:2",
+    "name": "Cartoonito"
+  },
+  {
+    "id": "maxnet:24horas:544",
+    "name": "Chapolin 1"
+  },
+  {
+    "id": "maxnet:24horas:542",
+    "name": "Chaves 1"
+  },
+  {
+    "id": "maxnet:24horas:543",
+    "name": "Chaves 2"
+  },
+  {
+    "id": "maxnet:news:6",
+    "name": "CNN Brasil"
+  },
+  {
+    "id": "maxnet:sports:19",
+    "name": "Combate"
+  },
+  {
+    "id": "maxnet:sports:120",
+    "name": "Dazn"
+  },
+  {
+    "id": "maxnet:24horas:588",
+    "name": "DC Comics 1"
+  },
+  {
+    "id": "maxnet:docs:4",
+    "name": "Discovery Channel"
+  },
+  {
+    "id": "maxnet:infantil:5",
+    "name": "Discovery Kids"
+  },
+  {
+    "id": "maxnet:sports:111",
+    "name": "Disney+"
+  },
+  {
+    "id": "maxnet:infantil:18",
+    "name": "Dog TV"
+  },
+  {
+    "id": "maxnet:24horas:612",
+    "name": "Dois Homens e Meio 1"
+  },
+  {
+    "id": "maxnet:24horas:621",
+    "name": "Dois Homens e Meio 10"
+  },
+  {
+    "id": "maxnet:24horas:623",
+    "name": "Dois Homens e Meio 12"
+  },
+  {
+    "id": "maxnet:24horas:613",
+    "name": "Dois Homens e Meio 2"
+  },
+  {
+    "id": "maxnet:24horas:614",
+    "name": "Dois Homens e Meio 3"
+  },
+  {
+    "id": "maxnet:24horas:615",
+    "name": "Dois Homens e Meio 4"
+  },
+  {
+    "id": "maxnet:24horas:616",
+    "name": "Dois Homens e Meio 5"
+  },
+  {
+    "id": "maxnet:24horas:617",
+    "name": "Dois Homens e Meio 6"
+  },
+  {
+    "id": "maxnet:24horas:620",
+    "name": "Dois Homens e Meio 9"
+  },
+  {
+    "id": "maxnet:24horas:597",
+    "name": "Dragon Ball 1"
+  },
+  {
+    "id": "maxnet:24horas:598",
+    "name": "Dragon Ball 2"
+  },
+  {
+    "id": "maxnet:24horas:599",
+    "name": "Dragon Ball Heroes"
+  },
+  {
+    "id": "maxnet:24horas:600",
+    "name": "Dragon Ball Super 1"
+  },
+  {
+    "id": "maxnet:24horas:601",
+    "name": "Dragon Ball Super 2"
+  },
+  {
+    "id": "maxnet:24horas:602",
+    "name": "Dragon Ball Super 3"
+  },
+  {
+    "id": "maxnet:24horas:603",
+    "name": "Dragon Ball Z 1"
+  },
+  {
+    "id": "maxnet:24horas:604",
+    "name": "Dragon Ball Z 2"
+  },
+  {
+    "id": "maxnet:variedades:17",
+    "name": "Drive Channel TV"
+  },
+  {
+    "id": "maxnet:infantil:14",
+    "name": "DumDum"
+  },
+  {
+    "id": "maxnet:docs:7",
+    "name": "E! Entertainment"
+  },
+  {
+    "id": "maxnet:sports:121",
+    "name": "Eleven Sports"
+  },
+  {
+    "id": "maxnet:24horas:545",
+    "name": "Escolinha do Professor Raimundo"
+  },
+  {
+    "id": "maxnet:sports:4",
+    "name": "ESPN"
+  },
+  {
+    "id": "maxnet:sports:5",
+    "name": "ESPN 2"
+  },
+  {
+    "id": "maxnet:sports:6",
+    "name": "ESPN 3"
+  },
+  {
+    "id": "maxnet:sports:7",
+    "name": "ESPN 4"
+  },
+  {
+    "id": "maxnet:sports:8",
+    "name": "ESPN 5"
+  },
+  {
+    "id": "maxnet:sports:9",
+    "name": "ESPN 6"
+  },
+  {
+    "id": "maxnet:24horas:550",
+    "name": "Eu a Patroa e as Crianças 4"
+  },
+  {
+    "id": "maxnet:24horas:551",
+    "name": "Eu a Patroa e as Crianças 5"
+  },
+  {
+    "id": "maxnet:variedades:14",
+    "name": "Fashion TV"
+  },
+  {
+    "id": "maxnet:24horas:571",
+    "name": "Friends 1"
+  },
+  {
+    "id": "maxnet:24horas:580",
+    "name": "Friends 10"
+  },
+  {
+    "id": "maxnet:24horas:572",
+    "name": "Friends 2"
+  },
+  {
+    "id": "maxnet:24horas:573",
+    "name": "Friends 3"
+  },
+  {
+    "id": "maxnet:24horas:574",
+    "name": "Friends 4"
+  },
+  {
+    "id": "maxnet:24horas:575",
+    "name": "Friends 5"
+  },
+  {
+    "id": "maxnet:24horas:576",
+    "name": "Friends 6"
+  },
+  {
+    "id": "maxnet:24horas:577",
+    "name": "Friends 7"
+  },
+  {
+    "id": "maxnet:24horas:578",
+    "name": "Friends 8"
+  },
+  {
+    "id": "maxnet:24horas:579",
+    "name": "Friends 9"
+  },
+  {
+    "id": "maxnet:abertos:14",
+    "name": "Futura"
+  },
+  {
+    "id": "maxnet:sports:125",
+    "name": "GE TV"
+  },
+  {
+    "id": "maxnet:abertos:7",
+    "name": "Globo"
+  },
+  {
+    "id": "maxnet:news:1",
+    "name": "Globo News"
+  },
+  {
+    "id": "maxnet:infantil:4",
+    "name": "Gloob"
+  },
+  {
+    "id": "maxnet:infantil:6",
+    "name": "Gloobinho"
+  },
+  {
+    "id": "maxnet:24horas:624",
+    "name": "Harry Potter 1"
+  },
+  {
+    "id": "maxnet:24horas:625",
+    "name": "Harry Potter 2"
+  },
+  {
+    "id": "maxnet:sports:103",
+    "name": "HBO Max"
+  },
+  {
+    "id": "maxnet:sports:104",
+    "name": "HBO Max 2"
+  },
+  {
+    "id": "maxnet:sports:105",
+    "name": "HBO Max 3"
+  },
+  {
+    "id": "maxnet:docs:2",
+    "name": "History"
+  },
+  {
+    "id": "maxnet:events:7",
+    "name": "Hunter FM"
+  },
+  {
+    "id": "maxnet:docs:9",
+    "name": "Investigação Discovery"
+  },
+  {
+    "id": "maxnet:24horas:611",
+    "name": "Jiraya"
+  },
+  {
+    "id": "maxnet:24horas:627",
+    "name": "Jogos Mortais 2"
+  },
+  {
+    "id": "maxnet:24horas:628",
+    "name": "Jogos Vorazes - Quadrilogia"
+  },
+  {
+    "id": "maxnet:24horas:629",
+    "name": "John Wick - Trilogia"
+  },
+  {
+    "id": "maxnet:infantil:20",
+    "name": "Loading"
+  },
+  {
+    "id": "maxnet:24horas:591",
+    "name": "Marvel 1"
+  },
+  {
+    "id": "maxnet:24horas:592",
+    "name": "Marvel 2"
+  },
+  {
+    "id": "maxnet:24horas:593",
+    "name": "Marvel 3"
+  },
+  {
+    "id": "maxnet:24horas:594",
+    "name": "Marvel 4"
+  },
+  {
+    "id": "maxnet:24horas:630",
+    "name": "Maze Runner - Trilogia"
+  },
+  {
+    "id": "maxnet:variedades:15",
+    "name": "Music Box Brazil"
+  },
+  {
+    "id": "maxnet:events:8",
+    "name": "Músicas 24h 1"
+  },
+  {
+    "id": "maxnet:events:9",
+    "name": "Músicas 24h 2"
+  },
+  {
+    "id": "maxnet:24horas:631",
+    "name": "O Hobbit - Trilogia"
+  },
+  {
+    "id": "maxnet:24horas:632",
+    "name": "O Senhor dos Aneis - Trilogia"
+  },
+  {
+    "id": "maxnet:24horas:546",
+    "name": "Os Trapalhões"
+  },
+  {
+    "id": "maxnet:sports:24",
+    "name": "Paramount+"
+  },
+  {
+    "id": "maxnet:sports:25",
+    "name": "Paramount+ 2"
+  },
+  {
+    "id": "maxnet:sports:109",
+    "name": "Paramount+ 3"
+  },
+  {
+    "id": "maxnet:sports:110",
+    "name": "Paramount+ 4"
+  },
+  {
+    "id": "maxnet:events:4",
+    "name": "PlutoTV Filmes"
+  },
+  {
+    "id": "maxnet:events:5",
+    "name": "PlutoTV Séries"
+  },
+  {
+    "id": "maxnet:24horas:566",
+    "name": "Porta dos Fundos 1"
+  },
+  {
+    "id": "maxnet:24horas:567",
+    "name": "Porta dos Fundos 2"
+  },
+  {
+    "id": "maxnet:sports:11",
+    "name": "Premiere"
+  },
+  {
+    "id": "maxnet:sports:13",
+    "name": "Premiere 3"
+  },
+  {
+    "id": "maxnet:sports:14",
+    "name": "Premiere 4"
+  },
+  {
+    "id": "maxnet:sports:15",
+    "name": "Premiere 5"
+  },
+  {
+    "id": "maxnet:sports:16",
+    "name": "Premiere 6"
+  },
+  {
+    "id": "maxnet:sports:18",
+    "name": "Premiere 8"
+  },
+  {
+    "id": "maxnet:sports:112",
+    "name": "Prime Vídeo"
+  },
+  {
+    "id": "maxnet:abertos:11",
+    "name": "Record"
+  },
+  {
+    "id": "maxnet:news:4",
+    "name": "Record News"
+  },
+  {
+    "id": "maxnet:abertos:16",
+    "name": "Rede Brasil"
+  },
+  {
+    "id": "maxnet:abertos:13",
+    "name": "RedeTV!"
+  },
+  {
+    "id": "maxnet:abertos:8",
+    "name": "SBT"
+  },
+  {
+    "id": "maxnet:events:2",
+    "name": "SBT+"
+  },
+  {
+    "id": "maxnet:24horas:638",
+    "name": "Smallville 2"
+  },
+  {
+    "id": "maxnet:sports:1",
+    "name": "SporTV"
+  },
+  {
+    "id": "maxnet:sports:2",
+    "name": "SporTV 2"
+  },
+  {
+    "id": "maxnet:sports:3",
+    "name": "SporTV 3"
+  },
+  {
+    "id": "maxnet:sports:122",
+    "name": "SporTV PT"
+  },
+  {
+    "id": "maxnet:sports:114",
+    "name": "SportyNet"
+  },
+  {
+    "id": "maxnet:24horas:552",
+    "name": "Todo Mundo Odeia o Chris 1"
+  },
+  {
+    "id": "maxnet:24horas:553",
+    "name": "Todo Mundo Odeia o Chris 2"
+  },
+  {
+    "id": "maxnet:24horas:554",
+    "name": "Todo Mundo Odeia o Chris 3"
+  },
+  {
+    "id": "maxnet:24horas:558",
+    "name": "Todo Mundo Odeia o Chris 7"
+  },
+  {
+    "id": "maxnet:24horas:559",
+    "name": "Todo Mundo Odeia o Chris 8"
+  },
+  {
+    "id": "maxnet:24horas:541",
+    "name": "Tokusato"
+  },
+  {
+    "id": "maxnet:variedades:16",
+    "name": "Trace Brasil"
+  },
+  {
+    "id": "maxnet:abertos:17",
+    "name": "TV Acrítica"
+  },
+  {
+    "id": "maxnet:abertos:115",
+    "name": "TV Aparecida"
+  },
+  {
+    "id": "maxnet:abertos:116",
+    "name": "TV Brasil"
+  },
+  {
+    "id": "maxnet:abertos:15",
+    "name": "TV Cultura"
+  },
+  {
+    "id": "maxnet:abertos:119",
+    "name": "TV Evangelizar"
+  },
+  {
+    "id": "maxnet:sports:23",
+    "name": "UFC Fight Pass"
+  },
+  {
+    "id": "maxnet:24horas:560",
+    "name": "Um Maluco no Pedaço 1"
+  },
+  {
+    "id": "maxnet:24horas:561",
+    "name": "Um Maluco no Pedaço 2"
+  },
+  {
+    "id": "maxnet:24horas:562",
+    "name": "Um Maluco no Pedaço 3"
+  },
+  {
+    "id": "maxnet:24horas:563",
+    "name": "Um Maluco no Pedaço 4"
+  },
+  {
+    "id": "maxnet:24horas:565",
+    "name": "Um Maluco no Pedaço 6"
+  },
+  {
+    "id": "maxnet:24horas:581",
+    "name": "Vai que Cola 1"
+  },
+  {
+    "id": "maxnet:24horas:582",
+    "name": "Vai que Cola 2"
+  },
+  {
+    "id": "maxnet:24horas:583",
+    "name": "Vai que Cola 3"
+  },
+  {
+    "id": "maxnet:24horas:584",
+    "name": "Vai que Cola 5"
+  },
+  {
+    "id": "maxnet:24horas:585",
+    "name": "Vai que Cola 6"
+  },
+  {
+    "id": "maxnet:24horas:586",
+    "name": "Vai que Cola 7"
+  },
+  {
+    "id": "maxnet:24horas:587",
+    "name": "Vai que Cola 8"
+  },
+  {
+    "id": "maxnet:24horas:595",
+    "name": "X-Men 1"
+  },
+  {
+    "id": "maxnet:24horas:596",
+    "name": "X-Men 2"
+  },
+  {
+    "id": "maxnet:sports:124",
+    "name": "XSports"
+  },
+  {
+    "id": "maxnet:24horas:609",
+    "name": "Xuxa só para Baixinhos 1"
+  },
+  {
+    "id": "maxnet:24horas:610",
+    "name": "Xuxa só para Baixinhos 2"
+  },
+  {
+    "id": "maxnet:24horas:606",
+    "name": "YT-Investigação Criminal"
+  }
+]

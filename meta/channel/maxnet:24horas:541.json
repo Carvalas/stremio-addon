@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "maxnet:24horas:541",
+    "type": "channel",
+    "name": "Tokusato",
+    "description": "Ao Vivo - 24 Horas",
+    "genres": [
+      "24horas"
+    ],
+    "videos": [
+      {
+        "id": "maxnet:24horas:541:src-0",
+        "title": "Opção 01"
+      }
+    ]
+  }
+}

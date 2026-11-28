@@ -1,0 +1,244 @@
+{
+  "metas": [
+    {
+      "id": "maxnet:filmseseries:25",
+      "type": "channel",
+      "name": "A&E",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_a&e0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_a&e0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_a&e0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:37",
+      "type": "channel",
+      "name": "AMC",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_amc0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_amc0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_amc0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:23",
+      "type": "channel",
+      "name": "AXN",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_axn0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_axn0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_axn0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:42",
+      "type": "channel",
+      "name": "Canal Brasil",
+      "poster": "https://i.imgur.com/8PuNxoS.png",
+      "posterThumb": "https://i.imgur.com/8PuNxoS.png",
+      "background": "https://i.imgur.com/8PuNxoS.png"
+    },
+    {
+      "id": "maxnet:filmseseries:46",
+      "type": "channel",
+      "name": "Cine Sky",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:1",
+      "type": "channel",
+      "name": "Cinemax",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:2",
+      "type": "channel",
+      "name": "HBO",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_hbo0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_hbo0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_hbo0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:9",
+      "type": "channel",
+      "name": "HBO 2",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_hbotwo0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_hbotwo0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_hbotwo0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:11",
+      "type": "channel",
+      "name": "HBO Family",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_hbofamily0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_hbofamily0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_hbofamily0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:10",
+      "type": "channel",
+      "name": "HBO Plus",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_hboplus0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_hboplus0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_hboplus0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:16",
+      "type": "channel",
+      "name": "HBO Pop",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_hbopop0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_hbopop0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_hbopop0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:12",
+      "type": "channel",
+      "name": "HBO Signature",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_hbosignature0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_hbosignature0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_hbosignature0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:13",
+      "type": "channel",
+      "name": "HBO Xtreme",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_hbomundi0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_hbomundi0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_hbomundi0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:7",
+      "type": "channel",
+      "name": "Megapix",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_megapix0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_megapix0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_megapix0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:5",
+      "type": "channel",
+      "name": "Sony Channel",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_sony0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_sony0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_sony0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:35",
+      "type": "channel",
+      "name": "Space",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_space0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_space0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_space0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:26",
+      "type": "channel",
+      "name": "Studio Universal",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_studiochannel0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_studiochannel0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_studiochannel0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:34",
+      "type": "channel",
+      "name": "TCM",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_tcm0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_tcm0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_tcm0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:18",
+      "type": "channel",
+      "name": "Telecine Action",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_telecineaction0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_telecineaction0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_telecineaction0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:22",
+      "type": "channel",
+      "name": "Telecine Cult",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_telecinecult0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_telecinecult0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_telecinecult0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:20",
+      "type": "channel",
+      "name": "Telecine Fun",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_telecinefun0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_telecinefun0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_telecinefun0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:21",
+      "type": "channel",
+      "name": "Telecine Pipoca",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_telecinepipoca0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_telecinepipoca0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_telecinepipoca0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:17",
+      "type": "channel",
+      "name": "Telecine Premium",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_telecinepremium0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_telecinepremium0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_telecinepremium0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:19",
+      "type": "channel",
+      "name": "Telecine Touch",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_telecinetouch0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_telecinetouch0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_telecinetouch0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:8",
+      "type": "channel",
+      "name": "TNT",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_tnt0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_tnt0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_tnt0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:38",
+      "type": "channel",
+      "name": "TNT Novelas",
+      "poster": "https://i.imgur.com/bzOhQNq.png",
+      "posterThumb": "https://i.imgur.com/bzOhQNq.png",
+      "background": "https://i.imgur.com/bzOhQNq.png"
+    },
+    {
+      "id": "maxnet:filmseseries:30",
+      "type": "channel",
+      "name": "TNT Séries",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_tntseries0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_tntseries0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_tntseries0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:36",
+      "type": "channel",
+      "name": "Universal TV",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_universaltv0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_universaltv0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_universaltv0001.png"
+    },
+    {
+      "id": "maxnet:filmseseries:27",
+      "type": "channel",
+      "name": "USA",
+      "poster": "https://i.imgur.com/sdoR43Z.png",
+      "posterThumb": "https://i.imgur.com/sdoR43Z.png",
+      "background": "https://i.imgur.com/sdoR43Z.png"
+    },
+    {
+      "id": "maxnet:filmseseries:4",
+      "type": "channel",
+      "name": "Warner",
+      "poster": "https://explouddev.com/maxnettv/logos/mntv_warner0001.png",
+      "posterThumb": "https://explouddev.com/maxnettv/logos/mntv_warner0001.png",
+      "background": "https://explouddev.com/maxnettv/logos/mntv_warner0001.png"
+    }
+  ]
+}
